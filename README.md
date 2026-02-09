@@ -98,17 +98,14 @@ Extracts entity mentions and writes `analysis_entities`. Running this stage also
 python engine/workers/run_stage.py entities
 ```
 
-### 8. Websearch Stage (Python Fetch, No LLM by Default)
-Fetches sources in Python, caches raw text, and stores jobs in `analysis_websearch`. LLM summary is optional.
+### 8. Websearch Stage (Python Fetch Only)
+Fetches sources in Python, caches raw text, and stores jobs in `analysis_websearch`. Summary is provided by the external agent workflow.
 ```bash
 # Default: fetch-only
 python engine/workers/run_stage.py websearch
 
 # Fetch-only (Python fetch, no LLM summary)
 python engine/workers/run_stage.py websearch --mode fetch
-
-# Optional LLM summary mode
-python engine/workers/run_stage.py websearch --mode llm
 
 # Local mode (builds jobs only)
 python engine/workers/run_stage.py websearch --mode local
@@ -340,7 +337,7 @@ Parallel links:
 - If `links.json` exists (from `link_languages.py`), websearch injects `parallel_links` into job context.
 Search tools:
 - Python resolves sources (currently Wikipedia API).
-- LLM summary is optional (`--mode llm` or `websearch.summary_llm=true`).
+- Internal LLM summary is disabled in `run_stage`; use the external agent workflow output.
 Cache:
 - Raw source text is stored in `stories/template/subjects/web_cache` (and `_de` variant).
 Prompts:
@@ -371,7 +368,6 @@ LMSTUDIO_API_TOKEN=YOUR_TOKEN_HERE
 
 Config keys:
 - `websearch.sources` / `websearch.sources_de` (list of source configs)
-- `websearch.summary_max_chars` (target length)
 - `websearch.cache_dir` / `websearch.cache_dir_de`
 Current supported source types:
 - `wikipedia` (uses `lang`)

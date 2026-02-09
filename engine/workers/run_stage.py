@@ -125,9 +125,6 @@ WEBSEARCH_MAX_VERSE_JOBS = int(WEBSEARCH_CONFIG.get("max_verse_jobs", 1) or 1)
 WEBSEARCH_MAX_TOTAL_JOBS = int(WEBSEARCH_CONFIG.get("max_total_jobs", 6) or 6)
 WEBSEARCH_MAX_SOURCES = int(WEBSEARCH_CONFIG.get("max_sources_per_job", 2) or 2)
 WEBSEARCH_MAX_FETCH_CHARS = int(WEBSEARCH_CONFIG.get("max_fetch_chars", 4000) or 4000)
-WEBSEARCH_SUMMARY_MAX_CHARS = int(WEBSEARCH_CONFIG.get("summary_max_chars", 1600) or 1600)
-WEBSEARCH_SUMMARY_LLM = bool(WEBSEARCH_CONFIG.get("summary_llm", False))
-WEBSEARCH_IMPORT_PATH = WEBSEARCH_CONFIG.get("import_path") or WEBSEARCH_CONFIG.get("import_results") or ""
 WEBSEARCH_CACHE_DIR = WEBSEARCH_CONFIG.get("cache_dir", "")
 WEBSEARCH_CACHE_DIR_DE = WEBSEARCH_CONFIG.get("cache_dir_de", "")
 WEBSEARCH_CACHE_TTL_HOURS = float(WEBSEARCH_CONFIG.get("cache_ttl_hours", 0) or 0)
@@ -1800,75 +1797,10 @@ async def _resolve_sources_for_job(session: aiohttp.ClientSession, job: dict) ->
                 return sources_out
     return sources_out
 
-async def _call_llm_text(session: aiohttp.ClientSession, prompt: str, max_tokens: int) -> tuple[str, str | None]:
-    sys_msg = "You are a concise research summarizer."
-    full_input = f"{sys_msg}\n\n{prompt}"
-    current_model = random.choice(MODELS)
-    sem = model_semaphores.get(current_model)
-    if sem is None:
-        sem = asyncio.Semaphore(MAX_CONCURRENT_PER_MODEL)
-        model_semaphores[current_model] = sem
-    payload = {
-        "model": current_model,
-        "input": full_input,
-        "temperature": 0.2,
-        "stream": STREAM_LM,
-        "max_output_tokens": int(max_tokens)
-    }
-    timeout = aiohttp.ClientTimeout(total=REQUEST_TIMEOUT)
-    try:
-        async with sem:
-            async with session.post(LM_STUDIO_URL, json=payload, timeout=timeout, headers=API_HEADERS) as response:
-                if response.status != 200:
-                    return "", None
-                if STREAM_LM:
-                    content, response_id, _ = await _read_sse_response(response)
-                    return content.strip(), response_id
-                result = await response.json()
-    except (asyncio.TimeoutError, aiohttp.ClientError) as e:
-        _log(f"⚠️ LLM request failed: {type(e).__name__}")
-        return "", None
-    except Exception as e:
-        _log(f"⚠️ LLM request error: {e}")
-        return "", None
-    content = ""
-    response_id = result.get("response_id")
-    if "output" in result and isinstance(result["output"], list):
-        for item in result["output"]:
-            if isinstance(item, dict):
-                item_type = item.get("type")
-                if item_type and item_type not in ("message", "text"):
-                    continue
-                if "content" in item and item.get("content") is not None:
-                    content += str(item.get("content", ""))
-                elif "text" in item and item.get("text") is not None:
-                    content += str(item.get("text", ""))
-            elif isinstance(item, str):
-                content += item
-    elif "choices" in result:
-        content = result['choices'][0]['message']['content']
-    return content.strip(), response_id
-
-async def _build_websearch_python(session: aiohttp.ClientSession, verse_obj: dict, jobs: list[dict], use_llm: bool = True) -> dict:
+async def _build_websearch_python(session: aiohttp.ClientSession, jobs: list[dict]) -> dict:
     jobs_out: list[dict] = []
     for job in jobs:
         sources = await _resolve_sources_for_job(session, job)
-        summary_text = ""
-        response_id = None
-        if sources and use_llm:
-            prompt = prompts.build_websearch_summary_prompt(
-                job,
-                sources,
-                max_chars=WEBSEARCH_SUMMARY_MAX_CHARS,
-                context_prefix=WEBSEARCH_CONTEXT_PREFIX
-            )
-            max_tokens = _compute_dynamic_max_tokens(prompt)
-            stage_cap = STAGE_MAX_OUTPUT.get("websearch")
-            if stage_cap:
-                max_tokens = min(max_tokens, int(stage_cap))
-            summary_text, response_id = await _call_llm_text(session, prompt, max_tokens)
-            if summary_text and WEBSEARCH_SUMMARY_MAX_CHARS:
-                summary_text = summary_text[:WEBSEARCH_SUMMARY_MAX_CHARS].rstrip()
         jobs_out.append({
             "job_id": job.get("job_id"),
             "query": job.get("query"),
@@ -1879,16 +1811,10 @@ async def _build_websearch_python(session: aiohttp.ClientSession, verse_obj: dic
                     "cache_key": _cache_key_for_url(s.get("url") or "")
                 } for s in sources
             ],
-            "summary": summary_text,
-            "confidence": "medium" if summary_text else ("low" if use_llm else "none"),
-            "notes": ""
+            "summary": "",
+            "confidence": "none",
+            "notes": "summary_external_agent"
         })
-        if response_id:
-            job_state = verse_obj.setdefault("state_ids", {}).setdefault("websearch_jobs", {})
-            job_state[job.get("job_id") or f"job_{len(job_state)+1}"] = {
-                "id": response_id,
-                "model": None
-            }
     return {
         "schema": "websearch.v1",
         "status": "complete",
@@ -2869,9 +2795,8 @@ async def analyze_stage(session, verse_obj, stage):
         jobs = _build_websearch_jobs(verse_obj, registry)
         websearch_input_jobs = jobs
         if not WEBSEARCH_USE_TOOLS:
-            use_llm = WEBSEARCH_SUMMARY_LLM and WEBSEARCH_MODE != "fetch"
-            verse_obj[result_key] = await _build_websearch_python(session, verse_obj, jobs, use_llm=use_llm)
-            _log(f"✅ WEBSEARCH {verse_obj['verse_id']} [{'python+llm' if use_llm else 'python-only'}]")
+            verse_obj[result_key] = await _build_websearch_python(session, jobs)
+            _log(f"✅ WEBSEARCH {verse_obj['verse_id']} [python-only]")
             return verse_obj
         ws_registry_context = None
         if WEBSEARCH_INCLUDE_REGISTRY_CONTEXT:
@@ -3548,10 +3473,13 @@ if __name__ == "__main__":
         elif CURRENT_STAGE == 'translation':
             TRANSLATION_MODE = args.mode # 'text' (draft) or 'json' (final)
         elif CURRENT_STAGE == 'websearch':
-            if args.mode in ("local", "llm", "fetch"):
+            if args.mode in ("local", "fetch"):
                 WEBSEARCH_MODE = args.mode
+            elif args.mode == "llm":
+                WEBSEARCH_MODE = "fetch"
+                print("ℹ️ Websearch internal LLM summary is removed. Using fetch mode.")
             else:
-                print("⚠️ Websearch mode supports only local|llm|fetch. Using config default.")
+                print("⚠️ Websearch mode supports only local|fetch. Using config default.")
     
     # 3. Dry Run / Limits
     if args.dry_run:

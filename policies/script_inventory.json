@@ -92,6 +92,13 @@
       "notes": "Inventory and lifecycle policy audit."
     },
     {
+      "path": "tools/archive_candidates.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Archives temporary script candidates and updates inventory."
+    },
+    {
       "path": "directory_mapper.py",
       "status": "oneoff",
       "owner": "pipeline",

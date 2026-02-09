@@ -86,8 +86,6 @@
     "max_total_jobs": 6,
     "max_sources_per_job": 2,
     "max_fetch_chars": 4000,
-    "summary_max_chars": 1600,
-    "summary_llm": false,
     "seed_wikipedia": true,
     "context_window": 1,
     "actor_prop_templates": [
