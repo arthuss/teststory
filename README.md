@@ -162,6 +162,27 @@ By default, dry‑run logs and parse errors are written to `logs/`:
 - `logs/error_log.txt`
 You can override dry‑run output with `--dry-run-out`.
 
+## File Hygiene Policy
+To prevent accumulation of one-off helper scripts, lifecycle is tracked in:
+- `policies/file-lifecycle-policy.md`
+- `policies/script_inventory.json`
+
+Audit current state:
+```bash
+python tools/file_hygiene.py
+```
+The report includes an `ARCHIVE_PLAN` section for temporary scripts.
+
+Apply archive plan:
+```bash
+python tools/archive_candidates.py --apply
+```
+
+Strict mode (non-zero exit code on violations):
+```bash
+python tools/file_hygiene.py --strict
+```
+
 ## Alias Refresh (No Re‑Init)
 Refreshes `alias_hits` using the current `engine/config/aliases.json` without deleting any analyses.
 ```bash

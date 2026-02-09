@@ -1,0 +1,109 @@
+{
+  "scripts": [
+    {
+      "path": "engine/workers/analyze_script.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Analyzer utility used in workers flow."
+    },
+    {
+      "path": "engine/workers/asset_bible_enricher.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Builds asset bible cards from registry and websearch."
+    },
+    {
+      "path": "engine/workers/fidel_ops.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Ge'ez normalization and preprocessing helpers."
+    },
+    {
+      "path": "engine/workers/id_generator.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Stable ID generation utilities."
+    },
+    {
+      "path": "engine/workers/init_structure.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Initial story_data scaffold builder."
+    },
+    {
+      "path": "engine/workers/launch_orchestrator.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Model orchestration bootstrap."
+    },
+    {
+      "path": "engine/workers/link_languages.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "GE/DE verse and subject links."
+    },
+    {
+      "path": "engine/workers/merge_translation.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Merges translation text into primary story_data."
+    },
+    {
+      "path": "engine/workers/prompts.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Prompt builders for all stages."
+    },
+    {
+      "path": "engine/workers/refresh_aliases.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Alias-hit refresh without re-init."
+    },
+    {
+      "path": "engine/workers/reset_stage.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Stage reset utility."
+    },
+    {
+      "path": "engine/workers/run_stage.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Main stage runner."
+    },
+    {
+      "path": "tools/file_hygiene.py",
+      "status": "core",
+      "owner": "pipeline",
+      "review_after": null,
+      "notes": "Inventory and lifecycle policy audit."
+    },
+    {
+      "path": "directory_mapper.py",
+      "status": "oneoff",
+      "owner": "pipeline",
+      "review_after": "2026-03-31",
+      "notes": "Repo map helper; archive if unused."
+    },
+    {
+      "path": "update_prompts.py",
+      "status": "experimental",
+      "owner": "pipeline",
+      "review_after": "2026-03-31",
+      "notes": "Prompt migration helper; keep only if used."
+    }
+  ]
+}
