@@ -10,4 +10,6 @@ story_data*.bak
 *.bak
 dryrun_*.jsonl
 logs/
+docs/
+lmstudio-python/
 .env
