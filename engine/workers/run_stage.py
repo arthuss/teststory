@@ -107,7 +107,7 @@ TRANSLATION_MODE = "text" # Default to Draft/Text mode
 
 # Websearch settings (LLM + tools)
 WEBSEARCH_CONFIG = config.get("websearch", {})
-WEBSEARCH_MODE = WEBSEARCH_CONFIG.get("mode", "llm")
+WEBSEARCH_MODE = WEBSEARCH_CONFIG.get("mode", "fetch")
 WEBSEARCH_USE_TOOLS = WEBSEARCH_CONFIG.get("use_tools", False)
 WEBSEARCH_TOOL_NAME = WEBSEARCH_CONFIG.get("tool_name", "fetch")
 WEBSEARCH_MCP_MODE = WEBSEARCH_CONFIG.get("mcp_mode", "plugin")
@@ -126,7 +126,7 @@ WEBSEARCH_MAX_TOTAL_JOBS = int(WEBSEARCH_CONFIG.get("max_total_jobs", 6) or 6)
 WEBSEARCH_MAX_SOURCES = int(WEBSEARCH_CONFIG.get("max_sources_per_job", 2) or 2)
 WEBSEARCH_MAX_FETCH_CHARS = int(WEBSEARCH_CONFIG.get("max_fetch_chars", 4000) or 4000)
 WEBSEARCH_SUMMARY_MAX_CHARS = int(WEBSEARCH_CONFIG.get("summary_max_chars", 1600) or 1600)
-WEBSEARCH_SUMMARY_LLM = bool(WEBSEARCH_CONFIG.get("summary_llm", True))
+WEBSEARCH_SUMMARY_LLM = bool(WEBSEARCH_CONFIG.get("summary_llm", False))
 WEBSEARCH_IMPORT_PATH = WEBSEARCH_CONFIG.get("import_path") or WEBSEARCH_CONFIG.get("import_results") or ""
 WEBSEARCH_CACHE_DIR = WEBSEARCH_CONFIG.get("cache_dir", "")
 WEBSEARCH_CACHE_DIR_DE = WEBSEARCH_CONFIG.get("cache_dir_de", "")

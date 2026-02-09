@@ -98,14 +98,17 @@ Extracts entity mentions and writes `analysis_entities`. Running this stage also
 python engine/workers/run_stage.py entities
 ```
 
-### 8. Websearch Stage (Python + LLM Summary)
-Fetches sources in Python, caches raw text, and lets the LLM write a dense summary per job. Results are stored in `analysis_websearch`.
+### 8. Websearch Stage (Python Fetch, No LLM by Default)
+Fetches sources in Python, caches raw text, and stores jobs in `analysis_websearch`. LLM summary is optional.
 ```bash
-# LLM mode (Python fetch + LLM summary)
+# Default: fetch-only
 python engine/workers/run_stage.py websearch
 
 # Fetch-only (Python fetch, no LLM summary)
 python engine/workers/run_stage.py websearch --mode fetch
+
+# Optional LLM summary mode
+python engine/workers/run_stage.py websearch --mode llm
 
 # Local mode (builds jobs only)
 python engine/workers/run_stage.py websearch --mode local
@@ -337,8 +340,7 @@ Parallel links:
 - If `links.json` exists (from `link_languages.py`), websearch injects `parallel_links` into job context.
 Search tools:
 - Python resolves sources (currently Wikipedia API).
-- LLM writes a compact, high‑density profile per job (plain text).
-- You can disable summaries via `--mode fetch` or config `websearch.summary_llm=false`.
+- LLM summary is optional (`--mode llm` or `websearch.summary_llm=true`).
 Cache:
 - Raw source text is stored in `stories/template/subjects/web_cache` (and `_de` variant).
 Prompts:
