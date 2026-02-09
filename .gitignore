@@ -12,4 +12,5 @@ dryrun_*.jsonl
 logs/
 docs/
 lmstudio-python/
+stories/template/subjects_de/
 .env

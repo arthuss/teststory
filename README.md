@@ -228,6 +228,9 @@ This keeps a single registry (Ge’ez) while preserving the DE text for downstre
 The previous fully separate DE pipeline is archived here:
 `docs/archive/de-workflow.md`
 
+Legacy DE output snapshot is archived at:
+`archive/subjects_de_legacy`
+
 ## Single Registry Workflow (GE + Translation Draft)
 If you want *one* registry (Ge’ez‑based) but still use the DE text for enrichment, merge the translation into `analysis_translation_draft` and use alias hits from the translation:
 ```bash

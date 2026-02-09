@@ -139,7 +139,6 @@
     "include_registry_context": false,
     "context_excerpt_chars": 0,
     "cache_dir": "stories/template/subjects/web_cache",
-    "cache_dir_de": "stories/template/subjects_de/web_cache",
     "cache_ttl_hours": 0,
     "sources": [
       {
@@ -147,12 +146,7 @@
         "lang": "en"
       }
     ],
-    "sources_de": [
-      {
-        "type": "wikipedia",
-        "lang": "de"
-      }
-    ]
+    "sources_de": []
   },
   "de_entities": {
     "enable_capitalized_heuristic": true,
