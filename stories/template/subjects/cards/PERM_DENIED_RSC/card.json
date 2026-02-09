@@ -1,0 +1,29 @@
+{
+  "description": "A concise asset-bible defining ownership terms.",
+  "visual_anatomy": [
+    "core components"
+  ],
+  "evolution": [
+    "initial design"
+  ],
+  "props": [
+    "rights",
+    "terms"
+  ],
+  "prompt_keywords": [
+    "clarity",
+    "precision"
+  ],
+  "prompt_block": "Define ownership clearly.",
+  "phase_prompts": [
+    {
+      "state_id": "phase_01",
+      "label": "Initial Design",
+      "summary": "Foundation setup",
+      "prompt_keywords": [
+        "clear"
+      ],
+      "prompt_block": "Specify requirements."
+    }
+  ]
+}

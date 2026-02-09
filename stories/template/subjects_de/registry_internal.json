@@ -1,0 +1,7005 @@
+{
+  "assets": {
+    "DE_ENTITY_HENOCHS": {
+      "id": "DE_ENTITY_HENOCHS",
+      "root": null,
+      "root_key": null,
+      "concept": "Henochs",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "1:1"
+    },
+    "DE_ENTITY_AUSERWAEHLTEN": {
+      "id": "DE_ENTITY_AUSERWAEHLTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Auserwählten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 52,
+      "first_seen": "1:1"
+    },
+    "DE_ENTITY_GERECHTEN": {
+      "id": "DE_ENTITY_GERECHTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gerechten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 89,
+      "first_seen": "1:1"
+    },
+    "DE_ENTITY_TAGE": {
+      "id": "DE_ENTITY_TAGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Tage",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 159,
+      "first_seen": "1:1"
+    },
+    "DE_ENTITY_LEBEN": {
+      "id": "DE_ENTITY_LEBEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Leben",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 21,
+      "first_seen": "1:1"
+    },
+    "DE_ENTITY_GOTTLOSEN": {
+      "id": "DE_ENTITY_GOTTLOSEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gottlosen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "1:1"
+    },
+    "DE_ENTITY_ABTRUENNIGEN": {
+      "id": "DE_ENTITY_ABTRUENNIGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Abtrünnigen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "1:1"
+    },
+    "ENTITY_SUPREME_GZA": {
+      "id": "ENTITY_SUPREME_GZA",
+      "root": null,
+      "root_key": null,
+      "concept": "Gott",
+      "asset_tag": "ENTITY_SUPREME",
+      "current_state": "ACTIVE",
+      "mentions": 208,
+      "first_seen": "1:2"
+    },
+    "ACTOR_PRIMARY_HNK": {
+      "id": "ACTOR_PRIMARY_HNK",
+      "root": null,
+      "root_key": null,
+      "concept": "Henoch",
+      "asset_tag": "ACTOR_PRIMARY",
+      "current_state": "ACTIVE",
+      "mentions": 32,
+      "first_seen": "1:2"
+    },
+    "CLASS_ACTOR_LAK": {
+      "id": "CLASS_ACTOR_LAK",
+      "root": null,
+      "root_key": null,
+      "concept": "Engel",
+      "asset_tag": "CLASS_ACTOR",
+      "current_state": "ACTIVE",
+      "mentions": 119,
+      "first_seen": "1:2"
+    },
+    "DE_ENTITY_HENOCH": {
+      "id": "DE_ENTITY_HENOCH",
+      "root": null,
+      "root_key": null,
+      "concept": "Henoch",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 29,
+      "first_seen": "1:2"
+    },
+    "DE_ENTITY_MANN": {
+      "id": "DE_ENTITY_MANN",
+      "root": null,
+      "root_key": null,
+      "concept": "Mann",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "1:2"
+    },
+    "DE_ENTITY_AUGEN": {
+      "id": "DE_ENTITY_AUGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Augen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 39,
+      "first_seen": "1:2"
+    },
+    "DE_ENTITY_GOTT": {
+      "id": "DE_ENTITY_GOTT",
+      "root": null,
+      "root_key": null,
+      "concept": "Gott",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "1:2"
+    },
+    "DE_ENTITY_VISION": {
+      "id": "DE_ENTITY_VISION",
+      "root": null,
+      "root_key": null,
+      "concept": "Vision",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 28,
+      "first_seen": "1:2"
+    },
+    "DE_ENTITY_HIMMELN": {
+      "id": "DE_ENTITY_HIMMELN",
+      "root": null,
+      "root_key": null,
+      "concept": "Himmeln",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "1:2"
+    },
+    "DE_ENTITY_ENGEL": {
+      "id": "DE_ENTITY_ENGEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Engel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 108,
+      "first_seen": "1:2"
+    },
+    "DE_ENTITY_GESCHLECHT": {
+      "id": "DE_ENTITY_GESCHLECHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Geschlecht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 19,
+      "first_seen": "1:2"
+    },
+    "DE_ENTITY_HEILIGEN": {
+      "id": "DE_ENTITY_HEILIGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Heiligen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 42,
+      "first_seen": "1:3"
+    },
+    "DE_ENTITY_GROSSEN": {
+      "id": "DE_ENTITY_GROSSEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Großen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "1:3"
+    },
+    "DE_ENTITY_WOHNUNG": {
+      "id": "DE_ENTITY_WOHNUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Wohnung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 17,
+      "first_seen": "1:3"
+    },
+    "DE_ENTITY_WELT": {
+      "id": "DE_ENTITY_WELT",
+      "root": null,
+      "root_key": null,
+      "concept": "Welt",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 48,
+      "first_seen": "1:4"
+    },
+    "DE_ENTITY_BERG": {
+      "id": "DE_ENTITY_BERG",
+      "root": null,
+      "root_key": null,
+      "concept": "Berg",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 25,
+      "first_seen": "1:4"
+    },
+    "DE_ENTITY_HEER": {
+      "id": "DE_ENTITY_HEER",
+      "root": null,
+      "root_key": null,
+      "concept": "Heer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "1:4"
+    },
+    "DE_ENTITY_KRAFT": {
+      "id": "DE_ENTITY_KRAFT",
+      "root": null,
+      "root_key": null,
+      "concept": "Kraft",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 14,
+      "first_seen": "1:4"
+    },
+    "DE_ENTITY_MACHT": {
+      "id": "DE_ENTITY_MACHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Macht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 25,
+      "first_seen": "1:4"
+    },
+    "DE_ENTITY_HIMMEL": {
+      "id": "DE_ENTITY_HIMMEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Himmel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 98,
+      "first_seen": "1:4"
+    },
+    "CLASS_ACTOR_WATCHERS": {
+      "id": "CLASS_ACTOR_WATCHERS",
+      "root": null,
+      "root_key": null,
+      "concept": "Wächter",
+      "asset_tag": "CLASS_ACTOR",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "1:5"
+    },
+    "DE_ENTITY_WAECHTER": {
+      "id": "DE_ENTITY_WAECHTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Wächter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "1:5"
+    },
+    "DE_ENTITY_FURCHT": {
+      "id": "DE_ENTITY_FURCHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Furcht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "1:5"
+    },
+    "DE_ENTITY_ZITTERN": {
+      "id": "DE_ENTITY_ZITTERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Zittern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "1:5"
+    },
+    "DE_ENTITY_ENDEN": {
+      "id": "DE_ENTITY_ENDEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Enden",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 25,
+      "first_seen": "1:5"
+    },
+    "DE_ENTITY_ERDE": {
+      "id": "DE_ENTITY_ERDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Erde",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 208,
+      "first_seen": "1:5"
+    },
+    "DE_ENTITY_BERGE": {
+      "id": "DE_ENTITY_BERGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Berge",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 19,
+      "first_seen": "1:6"
+    },
+    "DE_ENTITY_HUEGEL": {
+      "id": "DE_ENTITY_HUEGEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Hügel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "1:6"
+    },
+    "DE_ENTITY_HONIGWACHS": {
+      "id": "DE_ENTITY_HONIGWACHS",
+      "root": null,
+      "root_key": null,
+      "concept": "Honigwachs",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "1:6"
+    },
+    "DE_ENTITY_GERICHT": {
+      "id": "DE_ENTITY_GERICHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Gericht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 46,
+      "first_seen": "1:7"
+    },
+    "DE_ENTITY_FRIEDEN": {
+      "id": "DE_ENTITY_FRIEDEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Frieden",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 22,
+      "first_seen": "1:8"
+    },
+    "DE_ENTITY_GNADE": {
+      "id": "DE_ENTITY_GNADE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gnade",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "1:8"
+    },
+    "DE_ENTITY_LICHT": {
+      "id": "DE_ENTITY_LICHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Licht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 69,
+      "first_seen": "1:8"
+    },
+    "DE_ENTITY_GOTTES": {
+      "id": "DE_ENTITY_GOTTES",
+      "root": null,
+      "root_key": null,
+      "concept": "Gottes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "1:8"
+    },
+    "DE_ENTITY_FLEISCH": {
+      "id": "DE_ENTITY_FLEISCH",
+      "root": null,
+      "root_key": null,
+      "concept": "Fleisch",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 25,
+      "first_seen": "1:9"
+    },
+    "DE_ENTITY_SUENDER": {
+      "id": "DE_ENTITY_SUENDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Sünder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 61,
+      "first_seen": "1:9"
+    },
+    "DE_ENTITY_WERKE": {
+      "id": "DE_ENTITY_WERKE",
+      "root": null,
+      "root_key": null,
+      "concept": "Werke",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 20,
+      "first_seen": "2:1"
+    },
+    "DE_ENTITY_LICHTER": {
+      "id": "DE_ENTITY_LICHTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Lichter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "2:1"
+    },
+    "DE_ENTITY_BAHNEN": {
+      "id": "DE_ENTITY_BAHNEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Bahnen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "2:1"
+    },
+    "DE_ENTITY_ZEIT": {
+      "id": "DE_ENTITY_ZEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Zeit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 47,
+      "first_seen": "2:1"
+    },
+    "DE_ENTITY_GEBOTE": {
+      "id": "DE_ENTITY_GEBOTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gebote",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "2:1"
+    },
+    "DE_ENTITY_ANFANG": {
+      "id": "DE_ENTITY_ANFANG",
+      "root": null,
+      "root_key": null,
+      "concept": "Anfang",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "2:2"
+    },
+    "DE_ENTITY_ENDE": {
+      "id": "DE_ENTITY_ENDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Ende",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 22,
+      "first_seen": "2:2"
+    },
+    "DE_ENTITY_WERK": {
+      "id": "DE_ENTITY_WERK",
+      "root": null,
+      "root_key": null,
+      "concept": "Werk",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "2:2"
+    },
+    "DE_ENTITY_SOMMER": {
+      "id": "DE_ENTITY_SOMMER",
+      "root": null,
+      "root_key": null,
+      "concept": "Sommer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "2:3"
+    },
+    "DE_ENTITY_WINTER": {
+      "id": "DE_ENTITY_WINTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Winter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "2:3"
+    },
+    "DE_ENTITY_WASSER": {
+      "id": "DE_ENTITY_WASSER",
+      "root": null,
+      "root_key": null,
+      "concept": "Wasser",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 58,
+      "first_seen": "2:3"
+    },
+    "DE_ENTITY_WOLKEN": {
+      "id": "DE_ENTITY_WOLKEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wolken",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "2:3"
+    },
+    "DE_ENTITY_TAU": {
+      "id": "DE_ENTITY_TAU",
+      "root": null,
+      "root_key": null,
+      "concept": "Tau",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 16,
+      "first_seen": "2:3"
+    },
+    "DE_ENTITY_REGEN": {
+      "id": "DE_ENTITY_REGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Regen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 16,
+      "first_seen": "2:3"
+    },
+    "DE_ENTITY_BAEUME": {
+      "id": "DE_ENTITY_BAEUME",
+      "root": null,
+      "root_key": null,
+      "concept": "Bäume",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "3:1"
+    },
+    "DE_ENTITY_BLAETTER": {
+      "id": "DE_ENTITY_BLAETTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Blätter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "3:1"
+    },
+    "DE_ENTITY_BAEUMEN": {
+      "id": "DE_ENTITY_BAEUMEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Bäumen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "3:1"
+    },
+    "DE_ENTITY_LAUB": {
+      "id": "DE_ENTITY_LAUB",
+      "root": null,
+      "root_key": null,
+      "concept": "Laub",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "3:1"
+    },
+    "DE_ENTITY_SONNE": {
+      "id": "DE_ENTITY_SONNE",
+      "root": null,
+      "root_key": null,
+      "concept": "Sonne",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 79,
+      "first_seen": "4:1"
+    },
+    "DE_ENTITY_SCHATTEN": {
+      "id": "DE_ENTITY_SCHATTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Schatten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "4:1"
+    },
+    "DE_ENTITY_SCHUTZ": {
+      "id": "DE_ENTITY_SCHUTZ",
+      "root": null,
+      "root_key": null,
+      "concept": "Schutz",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "4:1"
+    },
+    "DE_ENTITY_HITZE": {
+      "id": "DE_ENTITY_HITZE",
+      "root": null,
+      "root_key": null,
+      "concept": "Hitze",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "4:1"
+    },
+    "DE_ENTITY_FELSEN": {
+      "id": "DE_ENTITY_FELSEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Felsen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "4:1"
+    },
+    "DE_ENTITY_FRUECHTE": {
+      "id": "DE_ENTITY_FRUECHTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Früchte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "5:1"
+    },
+    "DE_ENTITY_JAHR": {
+      "id": "DE_ENTITY_JAHR",
+      "root": null,
+      "root_key": null,
+      "concept": "Jahr",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 14,
+      "first_seen": "5:2"
+    },
+    "DE_ENTITY_MEERE": {
+      "id": "DE_ENTITY_MEERE",
+      "root": null,
+      "root_key": null,
+      "concept": "Meere",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "5:3"
+    },
+    "DE_ENTITY_FLUESSE": {
+      "id": "DE_ENTITY_FLUESSE",
+      "root": null,
+      "root_key": null,
+      "concept": "Flüsse",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "5:3"
+    },
+    "DE_ENTITY_HERRN": {
+      "id": "DE_ENTITY_HERRN",
+      "root": null,
+      "root_key": null,
+      "concept": "Herrn",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 135,
+      "first_seen": "5:4"
+    },
+    "DE_ENTITY_WORTE": {
+      "id": "DE_ENTITY_WORTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Worte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 18,
+      "first_seen": "5:4"
+    },
+    "DE_ENTITY_MUND": {
+      "id": "DE_ENTITY_MUND",
+      "root": null,
+      "root_key": null,
+      "concept": "Mund",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "5:4"
+    },
+    "DE_ENTITY_GROESSE": {
+      "id": "DE_ENTITY_GROESSE",
+      "root": null,
+      "root_key": null,
+      "concept": "Größe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "5:4"
+    },
+    "DE_ENTITY_HARTHERZIGEN": {
+      "id": "DE_ENTITY_HARTHERZIGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Hartherzigen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "5:4"
+    },
+    "DE_ENTITY_JAHRE": {
+      "id": "DE_ENTITY_JAHRE",
+      "root": null,
+      "root_key": null,
+      "concept": "Jahre",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "5:5"
+    },
+    "DE_ENTITY_LEBENS": {
+      "id": "DE_ENTITY_LEBENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Lebens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "5:5"
+    },
+    "DE_ENTITY_TAGEN": {
+      "id": "DE_ENTITY_TAGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Tagen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 66,
+      "first_seen": "5:6"
+    },
+    "DE_ENTITY_NAMEN": {
+      "id": "DE_ENTITY_NAMEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Namen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 68,
+      "first_seen": "5:6"
+    },
+    "DE_ENTITY_FLUCH": {
+      "id": "DE_ENTITY_FLUCH",
+      "root": null,
+      "root_key": null,
+      "concept": "Fluch",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "5:6"
+    },
+    "DE_ENTITY_FREUDE": {
+      "id": "DE_ENTITY_FREUDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Freude",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "5:7"
+    },
+    "DE_ENTITY_WEISHEIT": {
+      "id": "DE_ENTITY_WEISHEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Weisheit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 35,
+      "first_seen": "5:8"
+    },
+    "DE_ENTITY_STRAFE": {
+      "id": "DE_ENTITY_STRAFE",
+      "root": null,
+      "root_key": null,
+      "concept": "Strafe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "5:9"
+    },
+    "DE_ENTITY_ZORN": {
+      "id": "DE_ENTITY_ZORN",
+      "root": null,
+      "root_key": null,
+      "concept": "Zorn",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "5:9"
+    },
+    "DE_ENTITY_ZAHL": {
+      "id": "DE_ENTITY_ZAHL",
+      "root": null,
+      "root_key": null,
+      "concept": "Zahl",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 25,
+      "first_seen": "5:9"
+    },
+    "DE_ENTITY_EWIGKEIT": {
+      "id": "DE_ENTITY_EWIGKEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Ewigkeit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 83,
+      "first_seen": "5:9"
+    },
+    "DE_ENTITY_MENSCHENKINDER": {
+      "id": "DE_ENTITY_MENSCHENKINDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Menschenkinder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "6:1"
+    },
+    "DE_ENTITY_TOECHTER": {
+      "id": "DE_ENTITY_TOECHTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Töchter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "6:1"
+    },
+    "DE_ENTITY_SOEHNE": {
+      "id": "DE_ENTITY_SOEHNE",
+      "root": null,
+      "root_key": null,
+      "concept": "Söhne",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "6:2"
+    },
+    "DE_ENTITY_HIMMELS": {
+      "id": "DE_ENTITY_HIMMELS",
+      "root": null,
+      "root_key": null,
+      "concept": "Himmels",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 87,
+      "first_seen": "6:2"
+    },
+    "DE_ENTITY_WEIBER": {
+      "id": "DE_ENTITY_WEIBER",
+      "root": null,
+      "root_key": null,
+      "concept": "Weiber",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "6:2"
+    },
+    "DE_ENTITY_MENSCHENKINDERN": {
+      "id": "DE_ENTITY_MENSCHENKINDERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Menschenkindern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "6:2"
+    },
+    "DE_ENTITY_KINDER": {
+      "id": "DE_ENTITY_KINDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Kinder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 32,
+      "first_seen": "6:2"
+    },
+    "ACTOR_WATCHER_SEMJAZA": {
+      "id": "ACTOR_WATCHER_SEMJAZA",
+      "root": null,
+      "root_key": null,
+      "concept": "Semjaza",
+      "asset_tag": "ACTOR_WATCHER",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "6:3"
+    },
+    "DE_ENTITY_SEMJAZA": {
+      "id": "DE_ENTITY_SEMJAZA",
+      "root": null,
+      "root_key": null,
+      "concept": "Semjaza",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "6:3"
+    },
+    "DE_ENTITY_OBERSTER": {
+      "id": "DE_ENTITY_OBERSTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Oberster",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "6:3"
+    },
+    "DE_ENTITY_TAT": {
+      "id": "DE_ENTITY_TAT",
+      "root": null,
+      "root_key": null,
+      "concept": "Tat",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "6:3"
+    },
+    "DE_ENTITY_SUENDE": {
+      "id": "DE_ENTITY_SUENDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Sünde",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 35,
+      "first_seen": "6:3"
+    },
+    "DE_ENTITY_EID": {
+      "id": "DE_ENTITY_EID",
+      "root": null,
+      "root_key": null,
+      "concept": "Eid",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "6:4"
+    },
+    "DE_ENTITY_VERWUENSCHUNGEN": {
+      "id": "DE_ENTITY_VERWUENSCHUNGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Verwünschungen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "6:4"
+    },
+    "DE_ENTITY_GANZEN": {
+      "id": "DE_ENTITY_GANZEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Ganzen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "6:6"
+    },
+    "DE_ENTITY_GIPFEL": {
+      "id": "DE_ENTITY_GIPFEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Gipfel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "6:6"
+    },
+    "DE_ENTITY_HERMON": {
+      "id": "DE_ENTITY_HERMON",
+      "root": null,
+      "root_key": null,
+      "concept": "Hermon",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "6:6"
+    },
+    "DE_ENTITY_EZEQEEL": {
+      "id": "DE_ENTITY_EZEQEEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Ezeqeel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "6:7"
+    },
+    "DE_ENTITY_ARMAROS": {
+      "id": "DE_ENTITY_ARMAROS",
+      "root": null,
+      "root_key": null,
+      "concept": "Armaros",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "6:7"
+    },
+    "DE_ENTITY_ANANIEL": {
+      "id": "DE_ENTITY_ANANIEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Ananiel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "6:7"
+    },
+    "DE_ENTITY_OBERSTEN": {
+      "id": "DE_ENTITY_OBERSTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Obersten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "6:8"
+    },
+    "DE_ENTITY_BESCHWOERUNGEN": {
+      "id": "DE_ENTITY_BESCHWOERUNGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Beschwörungen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "7:1"
+    },
+    "DE_ENTITY_WURZELN": {
+      "id": "DE_ENTITY_WURZELN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wurzeln",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "7:1"
+    },
+    "CLASS_ACTOR_GIANTS": {
+      "id": "CLASS_ACTOR_GIANTS",
+      "root": null,
+      "root_key": null,
+      "concept": "Riese",
+      "asset_tag": "CLASS_ACTOR",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "7:2"
+    },
+    "DE_ENTITY_RIESEN": {
+      "id": "DE_ENTITY_RIESEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Riesen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "7:2"
+    },
+    "DE_ENTITY_HOEHE": {
+      "id": "DE_ENTITY_HOEHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Höhe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "7:2"
+    },
+    "DE_ENTITY_MENSCHEN": {
+      "id": "DE_ENTITY_MENSCHEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Menschen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 59,
+      "first_seen": "7:3"
+    },
+    "DE_ENTITY_VOEGELN": {
+      "id": "DE_ENTITY_VOEGELN",
+      "root": null,
+      "root_key": null,
+      "concept": "Vögeln",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "7:5"
+    },
+    "DE_ENTITY_FISCHEN": {
+      "id": "DE_ENTITY_FISCHEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Fischen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "7:5"
+    },
+    "DE_ENTITY_BLUT": {
+      "id": "DE_ENTITY_BLUT",
+      "root": null,
+      "root_key": null,
+      "concept": "Blut",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "7:5"
+    },
+    "ACTOR_WATCHER_AZAZEL": {
+      "id": "ACTOR_WATCHER_AZAZEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Azazel",
+      "asset_tag": "ACTOR_WATCHER",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "8:1"
+    },
+    "DE_ENTITY_AZAZEL": {
+      "id": "DE_ENTITY_AZAZEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Azazel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "8:1"
+    },
+    "DE_ENTITY_BRUSTPANZER": {
+      "id": "DE_ENTITY_BRUSTPANZER",
+      "root": null,
+      "root_key": null,
+      "concept": "Brustpanzer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "8:1"
+    },
+    "DE_ENTITY_SCHMUCK": {
+      "id": "DE_ENTITY_SCHMUCK",
+      "root": null,
+      "root_key": null,
+      "concept": "Schmuck",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "8:1"
+    },
+    "DE_ENTITY_ARTEN": {
+      "id": "DE_ENTITY_ARTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Arten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "8:1"
+    },
+    "DE_ENTITY_STEINEN": {
+      "id": "DE_ENTITY_STEINEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Steinen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "8:1"
+    },
+    "DE_ENTITY_GOTTLOSIGKEIT": {
+      "id": "DE_ENTITY_GOTTLOSIGKEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Gottlosigkeit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "8:2"
+    },
+    "DE_ENTITY_UNZUCHT": {
+      "id": "DE_ENTITY_UNZUCHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Unzucht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "8:2"
+    },
+    "DE_ENTITY_WEGEN": {
+      "id": "DE_ENTITY_WEGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wegen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "8:2"
+    },
+    "DE_ENTITY_BARAQJAL": {
+      "id": "DE_ENTITY_BARAQJAL",
+      "root": null,
+      "root_key": null,
+      "concept": "Baraqjal",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "8:3"
+    },
+    "DE_ENTITY_KOKABIEL": {
+      "id": "DE_ENTITY_KOKABIEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Kokabiel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "8:3"
+    },
+    "DE_ENTITY_LAUF": {
+      "id": "DE_ENTITY_LAUF",
+      "root": null,
+      "root_key": null,
+      "concept": "Lauf",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 17,
+      "first_seen": "8:3"
+    },
+    "DE_ENTITY_MONDES": {
+      "id": "DE_ENTITY_MONDES",
+      "root": null,
+      "root_key": null,
+      "concept": "Mondes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "8:3"
+    },
+    "DE_ENTITY_STIMME": {
+      "id": "DE_ENTITY_STIMME",
+      "root": null,
+      "root_key": null,
+      "concept": "Stimme",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 33,
+      "first_seen": "8:4"
+    },
+    "DE_ENTITY_MICHAEL": {
+      "id": "DE_ENTITY_MICHAEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Michael",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "9:1"
+    },
+    "DE_ENTITY_GABRIEL": {
+      "id": "DE_ENTITY_GABRIEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Gabriel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "9:1"
+    },
+    "DE_ENTITY_URIEL": {
+      "id": "DE_ENTITY_URIEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Uriel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "9:1"
+    },
+    "DE_ENTITY_UNGERECHTIGKEIT": {
+      "id": "DE_ENTITY_UNGERECHTIGKEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Ungerechtigkeit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 39,
+      "first_seen": "9:1"
+    },
+    "DE_ENTITY_TOREN": {
+      "id": "DE_ENTITY_TOREN",
+      "root": null,
+      "root_key": null,
+      "concept": "Toren",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "9:2"
+    },
+    "DE_ENTITY_SEELEN": {
+      "id": "DE_ENTITY_SEELEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Seelen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 17,
+      "first_seen": "9:3"
+    },
+    "DE_ENTITY_RECHT": {
+      "id": "DE_ENTITY_RECHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Recht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "9:3"
+    },
+    "DE_ENTITY_ALLERHOECHSTEN": {
+      "id": "DE_ENTITY_ALLERHOECHSTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Allerhöchsten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "9:3"
+    },
+    "DE_ENTITY_KOENIG": {
+      "id": "DE_ENTITY_KOENIG",
+      "root": null,
+      "root_key": null,
+      "concept": "König",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "9:4"
+    },
+    "DE_ENTITY_HERR": {
+      "id": "DE_ENTITY_HERR",
+      "root": null,
+      "root_key": null,
+      "concept": "Herr",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 75,
+      "first_seen": "9:4"
+    },
+    "DE_ENTITY_GOETTER": {
+      "id": "DE_ENTITY_GOETTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Götter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "9:4"
+    },
+    "DE_ENTITY_KOENIGE": {
+      "id": "DE_ENTITY_KOENIGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Könige",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 21,
+      "first_seen": "9:4"
+    },
+    "DE_ENTITY_THRON": {
+      "id": "DE_ENTITY_THRON",
+      "root": null,
+      "root_key": null,
+      "concept": "Thron",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 23,
+      "first_seen": "9:4"
+    },
+    "DE_ENTITY_HERRLICHKEIT": {
+      "id": "DE_ENTITY_HERRLICHKEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Herrlichkeit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 54,
+      "first_seen": "9:4"
+    },
+    "DE_ENTITY_GESCHLECHTER": {
+      "id": "DE_ENTITY_GESCHLECHTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Geschlechter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "9:4"
+    },
+    "DE_ENTITY_NAME": {
+      "id": "DE_ENTITY_NAME",
+      "root": null,
+      "root_key": null,
+      "concept": "Name",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "9:4"
+    },
+    "DE_ENTITY_GEWALT": {
+      "id": "DE_ENTITY_GEWALT",
+      "root": null,
+      "root_key": null,
+      "concept": "Gewalt",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 25,
+      "first_seen": "9:5"
+    },
+    "DE_ENTITY_GEHEIMNISSE": {
+      "id": "DE_ENTITY_GEHEIMNISSE",
+      "root": null,
+      "root_key": null,
+      "concept": "Geheimnisse",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 24,
+      "first_seen": "9:6"
+    },
+    "DE_ENTITY_GEFAEHRTEN": {
+      "id": "DE_ENTITY_GEFAEHRTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gefährten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "9:7"
+    },
+    "DE_ENTITY_TOECHTERN": {
+      "id": "DE_ENTITY_TOECHTERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Töchtern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "9:8"
+    },
+    "DE_ENTITY_WEIBERN": {
+      "id": "DE_ENTITY_WEIBERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Weibern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "9:8"
+    },
+    "DE_ENTITY_SUENDEN": {
+      "id": "DE_ENTITY_SUENDEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Sünden",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "9:8"
+    },
+    "DE_ENTITY_TUN": {
+      "id": "DE_ENTITY_TUN",
+      "root": null,
+      "root_key": null,
+      "concept": "Tun",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 18,
+      "first_seen": "9:11"
+    },
+    "DE_ENTITY_ALLERHOECHSTE": {
+      "id": "DE_ENTITY_ALLERHOECHSTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Allerhöchste",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "10:1"
+    },
+    "DE_ENTITY_GROSSE": {
+      "id": "DE_ENTITY_GROSSE",
+      "root": null,
+      "root_key": null,
+      "concept": "Große",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "10:1"
+    },
+    "DE_ENTITY_HEILIGE": {
+      "id": "DE_ENTITY_HEILIGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Heilige",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "10:1"
+    },
+    "DE_ENTITY_SOHN": {
+      "id": "DE_ENTITY_SOHN",
+      "root": null,
+      "root_key": null,
+      "concept": "Sohn",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 35,
+      "first_seen": "10:1"
+    },
+    "DE_ENTITY_WASSERFLUT": {
+      "id": "DE_ENTITY_WASSERFLUT",
+      "root": null,
+      "root_key": null,
+      "concept": "Wasserflut",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "10:2"
+    },
+    "DE_ENTITY_SAME": {
+      "id": "DE_ENTITY_SAME",
+      "root": null,
+      "root_key": null,
+      "concept": "Same",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "10:3"
+    },
+    "DE_ENTITY_RAPHAEL": {
+      "id": "DE_ENTITY_RAPHAEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Raphael",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "10:4"
+    },
+    "DE_ENTITY_HAENDEN": {
+      "id": "DE_ENTITY_HAENDEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Händen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "10:4"
+    },
+    "DE_ENTITY_FUESSEN": {
+      "id": "DE_ENTITY_FUESSEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Füßen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "10:4"
+    },
+    "DE_ENTITY_FINSTERNIS": {
+      "id": "DE_ENTITY_FINSTERNIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Finsternis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 23,
+      "first_seen": "10:4"
+    },
+    "DE_ENTITY_OEFFNUNG": {
+      "id": "DE_ENTITY_OEFFNUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Öffnung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "10:4"
+    },
+    "DE_ENTITY_WUESTE": {
+      "id": "DE_ENTITY_WUESTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Wüste",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "10:4"
+    },
+    "DE_ENTITY_STEINE": {
+      "id": "DE_ENTITY_STEINE",
+      "root": null,
+      "root_key": null,
+      "concept": "Steine",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "10:5"
+    },
+    "DE_ENTITY_ANGESICHT": {
+      "id": "DE_ENTITY_ANGESICHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Angesicht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 69,
+      "first_seen": "10:5"
+    },
+    "DE_ENTITY_GERICHTS": {
+      "id": "DE_ENTITY_GERICHTS",
+      "root": null,
+      "root_key": null,
+      "concept": "Gerichts",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 29,
+      "first_seen": "10:6"
+    },
+    "DE_ENTITY_HEILUNG": {
+      "id": "DE_ENTITY_HEILUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Heilung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "10:7"
+    },
+    "DE_ENTITY_GEHEIMNIS": {
+      "id": "DE_ENTITY_GEHEIMNIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Geheimnis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "10:7"
+    },
+    "DE_ENTITY_SOEHNEN": {
+      "id": "DE_ENTITY_SOEHNEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Söhnen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "10:7"
+    },
+    "DE_ENTITY_LEHRE": {
+      "id": "DE_ENTITY_LEHRE",
+      "root": null,
+      "root_key": null,
+      "concept": "Lehre",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "10:8"
+    },
+    "DE_ENTITY_AZAZELS": {
+      "id": "DE_ENTITY_AZAZELS",
+      "root": null,
+      "root_key": null,
+      "concept": "Azazels",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "10:8"
+    },
+    "DE_ENTITY_GEHE": {
+      "id": "DE_ENTITY_GEHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gehe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "10:9"
+    },
+    "DE_ENTITY_KAMPF": {
+      "id": "DE_ENTITY_KAMPF",
+      "root": null,
+      "root_key": null,
+      "concept": "Kampf",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "10:9"
+    },
+    "DE_ENTITY_VAETER": {
+      "id": "DE_ENTITY_VAETER",
+      "root": null,
+      "root_key": null,
+      "concept": "Väter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "10:10"
+    },
+    "DE_ENTITY_UNREINHEIT": {
+      "id": "DE_ENTITY_UNREINHEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Unreinheit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "10:11"
+    },
+    "DE_ENTITY_UNTERGANG": {
+      "id": "DE_ENTITY_UNTERGANG",
+      "root": null,
+      "root_key": null,
+      "concept": "Untergang",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 24,
+      "first_seen": "10:12"
+    },
+    "DE_ENTITY_GELIEBTEN": {
+      "id": "DE_ENTITY_GELIEBTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Geliebten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "10:12"
+    },
+    "DE_ENTITY_ENDES": {
+      "id": "DE_ENTITY_ENDES",
+      "root": null,
+      "root_key": null,
+      "concept": "Endes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "10:12"
+    },
+    "DE_ENTITY_ABGRUND": {
+      "id": "DE_ENTITY_ABGRUND",
+      "root": null,
+      "root_key": null,
+      "concept": "Abgrund",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "10:13"
+    },
+    "DE_ENTITY_QUAL": {
+      "id": "DE_ENTITY_QUAL",
+      "root": null,
+      "root_key": null,
+      "concept": "Qual",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "10:13"
+    },
+    "DE_ENTITY_GEFAENGNIS": {
+      "id": "DE_ENTITY_GEFAENGNIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Gefängnis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "10:13"
+    },
+    "DE_ENTITY_WOLLUST": {
+      "id": "DE_ENTITY_WOLLUST",
+      "root": null,
+      "root_key": null,
+      "concept": "Wollust",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "10:15"
+    },
+    "DE_ENTITY_GEWALTTAT": {
+      "id": "DE_ENTITY_GEWALTTAT",
+      "root": null,
+      "root_key": null,
+      "concept": "Gewalttat",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "10:16"
+    },
+    "DE_ENTITY_PFLANZE": {
+      "id": "DE_ENTITY_PFLANZE",
+      "root": null,
+      "root_key": null,
+      "concept": "Pflanze",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "10:16"
+    },
+    "DE_ENTITY_GERECHTIGKEIT": {
+      "id": "DE_ENTITY_GERECHTIGKEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Gerechtigkeit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 73,
+      "first_seen": "10:16"
+    },
+    "DE_ENTITY_WAHRHEIT": {
+      "id": "DE_ENTITY_WAHRHEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Wahrheit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "10:16"
+    },
+    "DE_ENTITY_SEGEN": {
+      "id": "DE_ENTITY_SEGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Segen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "10:16"
+    },
+    "DE_ENTITY_FRUCHT": {
+      "id": "DE_ENTITY_FRUCHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Frucht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "10:19"
+    },
+    "DE_ENTITY_SAMEN": {
+      "id": "DE_ENTITY_SAMEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Samen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "10:19"
+    },
+    "DE_ENTITY_MASS": {
+      "id": "DE_ENTITY_MASS",
+      "root": null,
+      "root_key": null,
+      "concept": "Maß",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "10:19"
+    },
+    "DE_ENTITY_VOELKER": {
+      "id": "DE_ENTITY_VOELKER",
+      "root": null,
+      "root_key": null,
+      "concept": "Völker",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "10:21"
+    },
+    "DE_ENTITY_VERDERBEN": {
+      "id": "DE_ENTITY_VERDERBEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Verderben",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "10:22"
+    },
+    "DE_ENTITY_PLAGE": {
+      "id": "DE_ENTITY_PLAGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Plage",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "10:22"
+    },
+    "DE_ENTITY_VORRATSKAMMERN": {
+      "id": "DE_ENTITY_VORRATSKAMMERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Vorratskammern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 16,
+      "first_seen": "11:1"
+    },
+    "DE_ENTITY_SEGENS": {
+      "id": "DE_ENTITY_SEGENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Segens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "11:1"
+    },
+    "DE_ENTITY_MUEHE": {
+      "id": "DE_ENTITY_MUEHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Mühe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "11:1"
+    },
+    "DE_ENTITY_WAECHTERN": {
+      "id": "DE_ENTITY_WAECHTERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wächtern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "12:2"
+    },
+    "DE_ENTITY_SCHREIBER": {
+      "id": "DE_ENTITY_SCHREIBER",
+      "root": null,
+      "root_key": null,
+      "concept": "Schreiber",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "12:3"
+    },
+    "DE_ENTITY_STAETTEN": {
+      "id": "DE_ENTITY_STAETTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Stätten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "12:4"
+    },
+    "DE_ENTITY_VERGEBUNG": {
+      "id": "DE_ENTITY_VERGEBUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Vergebung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "12:5"
+    },
+    "DE_ENTITY_KINDERN": {
+      "id": "DE_ENTITY_KINDERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Kindern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "12:6"
+    },
+    "DE_ENTITY_BARMHERZIGKEIT": {
+      "id": "DE_ENTITY_BARMHERZIGKEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Barmherzigkeit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "12:6"
+    },
+    "DE_ENTITY_URTEIL": {
+      "id": "DE_ENTITY_URTEIL",
+      "root": null,
+      "root_key": null,
+      "concept": "Urteil",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "13:1"
+    },
+    "DE_ENTITY_LAESTERUNG": {
+      "id": "DE_ENTITY_LAESTERUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Lästerung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "13:2"
+    },
+    "DE_ENTITY_BITTSCHREIBEN": {
+      "id": "DE_ENTITY_BITTSCHREIBEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Bittschreiben",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "13:4"
+    },
+    "DE_ENTITY_SCHANDE": {
+      "id": "DE_ENTITY_SCHANDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Schande",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "13:5"
+    },
+    "DE_ENTITY_GEBETE": {
+      "id": "DE_ENTITY_GEBETE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gebete",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "13:6"
+    },
+    "DE_ENTITY_BEZUG": {
+      "id": "DE_ENTITY_BEZUG",
+      "root": null,
+      "root_key": null,
+      "concept": "Bezug",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "13:6"
+    },
+    "DE_ENTITY_GEIST": {
+      "id": "DE_ENTITY_GEIST",
+      "root": null,
+      "root_key": null,
+      "concept": "Geist",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 44,
+      "first_seen": "13:6"
+    },
+    "DE_ENTITY_TATEN": {
+      "id": "DE_ENTITY_TATEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Taten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "13:6"
+    },
+    "DE_ENTITY_DAN": {
+      "id": "DE_ENTITY_DAN",
+      "root": null,
+      "root_key": null,
+      "concept": "Dan",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "13:7"
+    },
+    "DE_ENTITY_LANDE": {
+      "id": "DE_ENTITY_LANDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Lande",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 35,
+      "first_seen": "13:7"
+    },
+    "DE_ENTITY_TRAUM": {
+      "id": "DE_ENTITY_TRAUM",
+      "root": null,
+      "root_key": null,
+      "concept": "Traum",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "13:8"
+    },
+    "DE_ENTITY_VISIONEN": {
+      "id": "DE_ENTITY_VISIONEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Visionen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "13:8"
+    },
+    "DE_ENTITY_BESTRAFUNG": {
+      "id": "DE_ENTITY_BESTRAFUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Bestrafung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 22,
+      "first_seen": "13:8"
+    },
+    "DE_ENTITY_SCHLAF": {
+      "id": "DE_ENTITY_SCHLAF",
+      "root": null,
+      "root_key": null,
+      "concept": "Schlaf",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "13:10"
+    },
+    "DE_ENTITY_BUCH": {
+      "id": "DE_ENTITY_BUCH",
+      "root": null,
+      "root_key": null,
+      "concept": "Buch",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 19,
+      "first_seen": "14:1"
+    },
+    "DE_ENTITY_GEBOT": {
+      "id": "DE_ENTITY_GEBOT",
+      "root": null,
+      "root_key": null,
+      "concept": "Gebot",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "14:1"
+    },
+    "DE_ENTITY_ZUNGE": {
+      "id": "DE_ENTITY_ZUNGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Zunge",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "14:2"
+    },
+    "DE_ENTITY_ODEM": {
+      "id": "DE_ENTITY_ODEM",
+      "root": null,
+      "root_key": null,
+      "concept": "Odem",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "14:2"
+    },
+    "DE_ENTITY_HERZEN": {
+      "id": "DE_ENTITY_HERZEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Herzen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "14:2"
+    },
+    "DE_ENTITY_WORT": {
+      "id": "DE_ENTITY_WORT",
+      "root": null,
+      "root_key": null,
+      "concept": "Wort",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 30,
+      "first_seen": "14:3"
+    },
+    "DE_ENTITY_BITTE": {
+      "id": "DE_ENTITY_BITTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Bitte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "14:4"
+    },
+    "DE_ENTITY_SCHWERT": {
+      "id": "DE_ENTITY_SCHWERT",
+      "root": null,
+      "root_key": null,
+      "concept": "Schwert",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "14:6"
+    },
+    "DE_ENTITY_SIEHE": {
+      "id": "DE_ENTITY_SIEHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Siehe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "14:8"
+    },
+    "DE_ENTITY_NEBEL": {
+      "id": "DE_ENTITY_NEBEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Nebel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "14:8"
+    },
+    "DE_ENTITY_STERNE": {
+      "id": "DE_ENTITY_STERNE",
+      "root": null,
+      "root_key": null,
+      "concept": "Sterne",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 37,
+      "first_seen": "14:8"
+    },
+    "DE_ENTITY_BLITZE": {
+      "id": "DE_ENTITY_BLITZE",
+      "root": null,
+      "root_key": null,
+      "concept": "Blitze",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "14:8"
+    },
+    "DE_ENTITY_WINDE": {
+      "id": "DE_ENTITY_WINDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Winde",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 22,
+      "first_seen": "14:8"
+    },
+    "DE_ENTITY_FLUEGEL": {
+      "id": "DE_ENTITY_FLUEGEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Flügel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "14:8"
+    },
+    "DE_ENTITY_HAGELSTEINEN": {
+      "id": "DE_ENTITY_HAGELSTEINEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Hagelsteinen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "14:9"
+    },
+    "DE_ENTITY_ZUNGEN": {
+      "id": "DE_ENTITY_ZUNGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Zungen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "14:9"
+    },
+    "DE_ENTITY_FEUER": {
+      "id": "DE_ENTITY_FEUER",
+      "root": null,
+      "root_key": null,
+      "concept": "Feuer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 37,
+      "first_seen": "14:9"
+    },
+    "DE_ENTITY_FEUERZUNGEN": {
+      "id": "DE_ENTITY_FEUERZUNGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Feuerzungen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "14:10"
+    },
+    "DE_ENTITY_HAUS": {
+      "id": "DE_ENTITY_HAUS",
+      "root": null,
+      "root_key": null,
+      "concept": "Haus",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 27,
+      "first_seen": "14:10"
+    },
+    "DE_ENTITY_HAUSES": {
+      "id": "DE_ENTITY_HAUSES",
+      "root": null,
+      "root_key": null,
+      "concept": "Hauses",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "14:10"
+    },
+    "DE_ENTITY_BODEN": {
+      "id": "DE_ENTITY_BODEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Boden",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "14:10"
+    },
+    "DE_ENTITY_HAGEL": {
+      "id": "DE_ENTITY_HAGEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Hagel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "14:10"
+    },
+    "DE_ENTITY_DACH": {
+      "id": "DE_ENTITY_DACH",
+      "root": null,
+      "root_key": null,
+      "concept": "Dach",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "14:11"
+    },
+    "DE_ENTITY_KERUBIM": {
+      "id": "DE_ENTITY_KERUBIM",
+      "root": null,
+      "root_key": null,
+      "concept": "Kerubim",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "14:11"
+    },
+    "DE_ENTITY_TORE": {
+      "id": "DE_ENTITY_TORE",
+      "root": null,
+      "root_key": null,
+      "concept": "Tore",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 27,
+      "first_seen": "14:12"
+    },
+    "DE_ENTITY_TEIL": {
+      "id": "DE_ENTITY_TEIL",
+      "root": null,
+      "root_key": null,
+      "concept": "Teil",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 28,
+      "first_seen": "14:17"
+    },
+    "DE_ENTITY_BLITZEN": {
+      "id": "DE_ENTITY_BLITZEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Blitzen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "14:17"
+    },
+    "DE_ENTITY_AUSSEHEN": {
+      "id": "DE_ENTITY_AUSSEHEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Aussehen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "14:18"
+    },
+    "DE_ENTITY_REIF": {
+      "id": "DE_ENTITY_REIF",
+      "root": null,
+      "root_key": null,
+      "concept": "Reif",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "14:18"
+    },
+    "DE_ENTITY_UMKREIS": {
+      "id": "DE_ENTITY_UMKREIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Umkreis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "14:18"
+    },
+    "DE_ENTITY_GEWAND": {
+      "id": "DE_ENTITY_GEWAND",
+      "root": null,
+      "root_key": null,
+      "concept": "Gewand",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "14:20"
+    },
+    "DE_ENTITY_SCHNEE": {
+      "id": "DE_ENTITY_SCHNEE",
+      "root": null,
+      "root_key": null,
+      "concept": "Schnee",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "14:20"
+    },
+    "DE_ENTITY_WESEN": {
+      "id": "DE_ENTITY_WESEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wesen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "14:21"
+    },
+    "DE_ENTITY_ZEHNTAUSENDMAL": {
+      "id": "DE_ENTITY_ZEHNTAUSENDMAL",
+      "root": null,
+      "root_key": null,
+      "concept": "Zehntausendmal",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "14:22"
+    },
+    "DE_ENTITY_ZEHNTAUSEND": {
+      "id": "DE_ENTITY_ZEHNTAUSEND",
+      "root": null,
+      "root_key": null,
+      "concept": "Zehntausend",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "14:22"
+    },
+    "DE_ENTITY_NACHT": {
+      "id": "DE_ENTITY_NACHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Nacht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 43,
+      "first_seen": "14:23"
+    },
+    "DE_ENTITY_TAG": {
+      "id": "DE_ENTITY_TAG",
+      "root": null,
+      "root_key": null,
+      "concept": "Tag",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 59,
+      "first_seen": "14:23"
+    },
+    "DE_ENTITY_TOR": {
+      "id": "DE_ENTITY_TOR",
+      "root": null,
+      "root_key": null,
+      "concept": "Tor",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 68,
+      "first_seen": "14:25"
+    },
+    "DE_ENTITY_HOERE": {
+      "id": "DE_ENTITY_HOERE",
+      "root": null,
+      "root_key": null,
+      "concept": "Höre",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "15:1"
+    },
+    "DE_ENTITY_ERDENKINDER": {
+      "id": "DE_ENTITY_ERDENKINDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Erdenkinder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "15:3"
+    },
+    "DE_ENTITY_BESITZ": {
+      "id": "DE_ENTITY_BESITZ",
+      "root": null,
+      "root_key": null,
+      "concept": "Besitz",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "15:4"
+    },
+    "DE_ENTITY_FLEISCHES": {
+      "id": "DE_ENTITY_FLEISCHES",
+      "root": null,
+      "root_key": null,
+      "concept": "Fleisches",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "15:4"
+    },
+    "DE_ENTITY_GEISTER": {
+      "id": "DE_ENTITY_GEISTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Geister",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 132,
+      "first_seen": "15:8"
+    },
+    "DE_ENTITY_URSPRUNG": {
+      "id": "DE_ENTITY_URSPRUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Ursprung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "15:9"
+    },
+    "DE_ENTITY_KUMMER": {
+      "id": "DE_ENTITY_KUMMER",
+      "root": null,
+      "root_key": null,
+      "concept": "Kummer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "15:11"
+    },
+    "DE_ENTITY_SPEISE": {
+      "id": "DE_ENTITY_SPEISE",
+      "root": null,
+      "root_key": null,
+      "concept": "Speise",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "15:11"
+    },
+    "DE_ENTITY_VERDERBENS": {
+      "id": "DE_ENTITY_VERDERBENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Verderbens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "16:1"
+    },
+    "DE_ENTITY_TODES": {
+      "id": "DE_ENTITY_TODES",
+      "root": null,
+      "root_key": null,
+      "concept": "Todes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "16:1"
+    },
+    "DE_ENTITY_SEELE": {
+      "id": "DE_ENTITY_SEELE",
+      "root": null,
+      "root_key": null,
+      "concept": "Seele",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "16:1"
+    },
+    "DE_ENTITY_VOLLENDUNG": {
+      "id": "DE_ENTITY_VOLLENDUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Vollendung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "16:1"
+    },
+    "DE_ENTITY_BOESES": {
+      "id": "DE_ENTITY_BOESES",
+      "root": null,
+      "root_key": null,
+      "concept": "Böses",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "16:3"
+    },
+    "DE_ENTITY_ORT": {
+      "id": "DE_ENTITY_ORT",
+      "root": null,
+      "root_key": null,
+      "concept": "Ort",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 37,
+      "first_seen": "17:1"
+    },
+    "DE_ENTITY_DONNER": {
+      "id": "DE_ENTITY_DONNER",
+      "root": null,
+      "root_key": null,
+      "concept": "Donner",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "17:3"
+    },
+    "DE_ENTITY_TIEFE": {
+      "id": "DE_ENTITY_TIEFE",
+      "root": null,
+      "root_key": null,
+      "concept": "Tiefe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "17:3"
+    },
+    "DE_ENTITY_WASSERN": {
+      "id": "DE_ENTITY_WASSERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wassern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "17:4"
+    },
+    "DE_ENTITY_WESTENS": {
+      "id": "DE_ENTITY_WESTENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Westens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "17:4"
+    },
+    "DE_ENTITY_MEER": {
+      "id": "DE_ENTITY_MEER",
+      "root": null,
+      "root_key": null,
+      "concept": "Meer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 20,
+      "first_seen": "17:5"
+    },
+    "DE_ENTITY_WESTEN": {
+      "id": "DE_ENTITY_WESTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Westen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 39,
+      "first_seen": "17:5"
+    },
+    "DE_ENTITY_MUENDUNG": {
+      "id": "DE_ENTITY_MUENDUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Mündung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "17:8"
+    },
+    "DE_ENTITY_SCHOEPFUNG": {
+      "id": "DE_ENTITY_SCHOEPFUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Schöpfung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "18:1"
+    },
+    "DE_ENTITY_GRUNDFESTEN": {
+      "id": "DE_ENTITY_GRUNDFESTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Grundfesten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "18:1"
+    },
+    "DE_ENTITY_FESTE": {
+      "id": "DE_ENTITY_FESTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Feste",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "18:2"
+    },
+    "DE_ENTITY_SAEULEN": {
+      "id": "DE_ENTITY_SAEULEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Säulen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "18:3"
+    },
+    "DE_ENTITY_SCHEIBE": {
+      "id": "DE_ENTITY_SCHEIBE",
+      "root": null,
+      "root_key": null,
+      "concept": "Scheibe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "18:4"
+    },
+    "DE_ENTITY_SUEDEN": {
+      "id": "DE_ENTITY_SUEDEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Süden",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "18:6"
+    },
+    "DE_ENTITY_BERGEN": {
+      "id": "DE_ENTITY_BERGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Bergen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "18:6"
+    },
+    "DE_ENTITY_OSTEN": {
+      "id": "DE_ENTITY_OSTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Osten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 39,
+      "first_seen": "18:6"
+    },
+    "DE_ENTITY_STEIN": {
+      "id": "DE_ENTITY_STEIN",
+      "root": null,
+      "root_key": null,
+      "concept": "Stein",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "18:7"
+    },
+    "DE_ENTITY_THRONS": {
+      "id": "DE_ENTITY_THRONS",
+      "root": null,
+      "root_key": null,
+      "concept": "Throns",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "18:8"
+    },
+    "DE_ENTITY_VOEGEL": {
+      "id": "DE_ENTITY_VOEGEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Vögel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "18:12"
+    },
+    "DE_ENTITY_AUFGANG": {
+      "id": "DE_ENTITY_AUFGANG",
+      "root": null,
+      "root_key": null,
+      "concept": "Aufgang",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "18:15"
+    },
+    "DE_ENTITY_HIER": {
+      "id": "DE_ENTITY_HIER",
+      "root": null,
+      "root_key": null,
+      "concept": "Hier",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "19:1"
+    },
+    "DE_ENTITY_GESTALTEN": {
+      "id": "DE_ENTITY_GESTALTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gestalten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "19:1"
+    },
+    "DE_ENTITY_DAEMONEN": {
+      "id": "DE_ENTITY_DAEMONEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Dämonen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "19:1"
+    },
+    "DE_ENTITY_GOETTERN": {
+      "id": "DE_ENTITY_GOETTERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Göttern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "19:1"
+    },
+    "DE_ENTITY_SIRENEN": {
+      "id": "DE_ENTITY_SIRENEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Sirenen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "19:2"
+    },
+    "DE_ENTITY_MENSCH": {
+      "id": "DE_ENTITY_MENSCH",
+      "root": null,
+      "root_key": null,
+      "concept": "Mensch",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "19:3"
+    },
+    "DE_ENTITY_BEBEN": {
+      "id": "DE_ENTITY_BEBEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Beben",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "20:2"
+    },
+    "DE_ENTITY_RACHE": {
+      "id": "DE_ENTITY_RACHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Rache",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "20:4"
+    },
+    "DE_ENTITY_SCHRECKLICHES": {
+      "id": "DE_ENTITY_SCHRECKLICHES",
+      "root": null,
+      "root_key": null,
+      "concept": "Schreckliches",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "21:2"
+    },
+    "DE_ENTITY_FEUERSAEULEN": {
+      "id": "DE_ENTITY_FEUERSAEULEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Feuersäulen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "21:7"
+    },
+    "DE_ENTITY_RAEUME": {
+      "id": "DE_ENTITY_RAEUME",
+      "root": null,
+      "root_key": null,
+      "concept": "Räume",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "22:2"
+    },
+    "DE_ENTITY_TOTEN": {
+      "id": "DE_ENTITY_TOTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Toten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "22:3"
+    },
+    "DE_ENTITY_ORTE": {
+      "id": "DE_ENTITY_ORTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Orte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "22:4"
+    },
+    "DE_ENTITY_BRUDER": {
+      "id": "DE_ENTITY_BRUDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Bruder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "22:7"
+    },
+    "DE_ENTITY_QUELLE": {
+      "id": "DE_ENTITY_QUELLE",
+      "root": null,
+      "root_key": null,
+      "concept": "Quelle",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "22:9"
+    },
+    "DE_ENTITY_WASSERS": {
+      "id": "DE_ENTITY_WASSERS",
+      "root": null,
+      "root_key": null,
+      "concept": "Wassers",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "22:9"
+    },
+    "DE_ENTITY_VERFLUCHTEN": {
+      "id": "DE_ENTITY_VERFLUCHTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Verfluchten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "22:11"
+    },
+    "DE_ENTITY_GEPRIESEN": {
+      "id": "DE_ENTITY_GEPRIESEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gepriesen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "22:14"
+    },
+    "DE_ENTITY_RUHE": {
+      "id": "DE_ENTITY_RUHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Ruhe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "23:3"
+    },
+    "DE_ENTITY_RAGUEL": {
+      "id": "DE_ENTITY_RAGUEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Raguel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "23:4"
+    },
+    "DE_ENTITY_NORDEN": {
+      "id": "DE_ENTITY_NORDEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Norden",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 16,
+      "first_seen": "24:2"
+    },
+    "DE_ENTITY_TAELER": {
+      "id": "DE_ENTITY_TAELER",
+      "root": null,
+      "root_key": null,
+      "concept": "Täler",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "24:2"
+    },
+    "DE_ENTITY_MITTE": {
+      "id": "DE_ENTITY_MITTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Mitte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 19,
+      "first_seen": "24:3"
+    },
+    "DE_ENTITY_BAUM": {
+      "id": "DE_ENTITY_BAUM",
+      "root": null,
+      "root_key": null,
+      "concept": "Baum",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "24:4"
+    },
+    "DE_ENTITY_DUFT": {
+      "id": "DE_ENTITY_DUFT",
+      "root": null,
+      "root_key": null,
+      "concept": "Duft",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "24:4"
+    },
+    "DE_ENTITY_WOHLGERUCH": {
+      "id": "DE_ENTITY_WOHLGERUCH",
+      "root": null,
+      "root_key": null,
+      "concept": "Wohlgeruch",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "24:4"
+    },
+    "DE_ENTITY_HOLZ": {
+      "id": "DE_ENTITY_HOLZ",
+      "root": null,
+      "root_key": null,
+      "concept": "Holz",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "24:4"
+    },
+    "DE_ENTITY_BAUMES": {
+      "id": "DE_ENTITY_BAUMES",
+      "root": null,
+      "root_key": null,
+      "concept": "Baumes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "25:1"
+    },
+    "DE_ENTITY_UEBER": {
+      "id": "DE_ENTITY_UEBER",
+      "root": null,
+      "root_key": null,
+      "concept": "Über",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "25:2"
+    },
+    "DE_ENTITY_GUETE": {
+      "id": "DE_ENTITY_GUETE",
+      "root": null,
+      "root_key": null,
+      "concept": "Güte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "25:3"
+    },
+    "DE_ENTITY_DEMUETIGEN": {
+      "id": "DE_ENTITY_DEMUETIGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Demütigen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "25:4"
+    },
+    "DE_ENTITY_HAUSE": {
+      "id": "DE_ENTITY_HAUSE",
+      "root": null,
+      "root_key": null,
+      "concept": "Hause",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "25:5"
+    },
+    "DE_ENTITY_SCHMERZ": {
+      "id": "DE_ENTITY_SCHMERZ",
+      "root": null,
+      "root_key": null,
+      "concept": "Schmerz",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "25:6"
+    },
+    "DE_ENTITY_TAL": {
+      "id": "DE_ENTITY_TAL",
+      "root": null,
+      "root_key": null,
+      "concept": "Tal",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "26:3"
+    },
+    "DE_ENTITY_FELS": {
+      "id": "DE_ENTITY_FELS",
+      "root": null,
+      "root_key": null,
+      "concept": "Fels",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "26:5"
+    },
+    "DE_ENTITY_LAND": {
+      "id": "DE_ENTITY_LAND",
+      "root": null,
+      "root_key": null,
+      "concept": "Land",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "27:1"
+    },
+    "DE_ENTITY_GEBIRGE": {
+      "id": "DE_ENTITY_GEBIRGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gebirge",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "29:1"
+    },
+    "DE_ENTITY_OSTENS": {
+      "id": "DE_ENTITY_OSTENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Ostens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "30:1"
+    },
+    "DE_ENTITY_SEITEN": {
+      "id": "DE_ENTITY_SEITEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Seiten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "30:3"
+    },
+    "DE_ENTITY_ZIMT": {
+      "id": "DE_ENTITY_ZIMT",
+      "root": null,
+      "root_key": null,
+      "concept": "Zimt",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "30:3"
+    },
+    "DE_ENTITY_ROTE": {
+      "id": "DE_ENTITY_ROTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Rote",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "32:2"
+    },
+    "DE_ENTITY_GARTEN": {
+      "id": "DE_ENTITY_GARTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Garten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "32:3"
+    },
+    "DE_ENTITY_ANBLICK": {
+      "id": "DE_ENTITY_ANBLICK",
+      "root": null,
+      "root_key": null,
+      "concept": "Anblick",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "32:5"
+    },
+    "DE_ENTITY_VATER": {
+      "id": "DE_ENTITY_VATER",
+      "root": null,
+      "root_key": null,
+      "concept": "Vater",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "32:6"
+    },
+    "DE_ENTITY_MUTTER": {
+      "id": "DE_ENTITY_MUTTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Mutter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "32:6"
+    },
+    "DE_ENTITY_TIERE": {
+      "id": "DE_ENTITY_TIERE",
+      "root": null,
+      "root_key": null,
+      "concept": "Tiere",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 16,
+      "first_seen": "33:1"
+    },
+    "DE_ENTITY_STELLUNG": {
+      "id": "DE_ENTITY_STELLUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Stellung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "33:3"
+    },
+    "DE_ENTITY_MONATEN": {
+      "id": "DE_ENTITY_MONATEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Monaten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "33:3"
+    },
+    "DE_ENTITY_GESETZE": {
+      "id": "DE_ENTITY_GESETZE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gesetze",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "33:4"
+    },
+    "DE_ENTITY_WUNDER": {
+      "id": "DE_ENTITY_WUNDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Wunder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "34:1"
+    },
+    "DE_ENTITY_KAELTE": {
+      "id": "DE_ENTITY_KAELTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Kälte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "34:2"
+    },
+    "DE_ENTITY_GUTEN": {
+      "id": "DE_ENTITY_GUTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Guten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "34:3"
+    },
+    "DE_ENTITY_AUSGANG": {
+      "id": "DE_ENTITY_AUSGANG",
+      "root": null,
+      "root_key": null,
+      "concept": "Ausgang",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "35:1"
+    },
+    "DE_ENTITY_WIND": {
+      "id": "DE_ENTITY_WIND",
+      "root": null,
+      "root_key": null,
+      "concept": "Wind",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "36:1"
+    },
+    "DE_ENTITY_WEG": {
+      "id": "DE_ENTITY_WEG",
+      "root": null,
+      "root_key": null,
+      "concept": "Weg",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "36:3"
+    },
+    "DE_ENTITY_WERKES": {
+      "id": "DE_ENTITY_WERKES",
+      "root": null,
+      "root_key": null,
+      "concept": "Werkes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "36:4"
+    },
+    "DE_ENTITY_ENGELN": {
+      "id": "DE_ENTITY_ENGELN",
+      "root": null,
+      "root_key": null,
+      "concept": "Engeln",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "36:4"
+    },
+    "DE_ENTITY_HAENDE": {
+      "id": "DE_ENTITY_HAENDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Hände",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 22,
+      "first_seen": "36:4"
+    },
+    "DE_ENTITY_SOHNES": {
+      "id": "DE_ENTITY_SOHNES",
+      "root": null,
+      "root_key": null,
+      "concept": "Sohnes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "37:1"
+    },
+    "DE_ENTITY_MAHALALELS": {
+      "id": "DE_ENTITY_MAHALALELS",
+      "root": null,
+      "root_key": null,
+      "concept": "Mahalalels",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "37:1"
+    },
+    "DE_ENTITY_HOERT": {
+      "id": "DE_ENTITY_HOERT",
+      "root": null,
+      "root_key": null,
+      "concept": "Hört",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "37:2"
+    },
+    "DE_ENTITY_FRUEHEREN": {
+      "id": "DE_ENTITY_FRUEHEREN",
+      "root": null,
+      "root_key": null,
+      "concept": "Früheren",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "37:2"
+    },
+    "DE_ENTITY_SPAETEREN": {
+      "id": "DE_ENTITY_SPAETEREN",
+      "root": null,
+      "root_key": null,
+      "concept": "Späteren",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "37:2"
+    },
+    "DE_ENTITY_DENKEN": {
+      "id": "DE_ENTITY_DENKEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Denken",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "37:4"
+    },
+    "DE_ENTITY_WOHLGEFALLEN": {
+      "id": "DE_ENTITY_WOHLGEFALLEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wohlgefallen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "37:4"
+    },
+    "DE_ENTITY_GLEICHNISSE": {
+      "id": "DE_ENTITY_GLEICHNISSE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gleichnisse",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "37:5"
+    },
+    "DE_ENTITY_GLEICHNIS": {
+      "id": "DE_ENTITY_GLEICHNIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Gleichnis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "38:1"
+    },
+    "DE_ENTITY_GEMEINDE": {
+      "id": "DE_ENTITY_GEMEINDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gemeinde",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "38:1"
+    },
+    "DE_ENTITY_LANDES": {
+      "id": "DE_ENTITY_LANDES",
+      "root": null,
+      "root_key": null,
+      "concept": "Landes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "38:1"
+    },
+    "DE_ENTITY_GERECHTE": {
+      "id": "DE_ENTITY_GERECHTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gerechte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "38:2"
+    },
+    "DE_ENTITY_MAECHTIGEN": {
+      "id": "DE_ENTITY_MAECHTIGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Mächtigen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 14,
+      "first_seen": "38:4"
+    },
+    "DE_ENTITY_ERHABENEN": {
+      "id": "DE_ENTITY_ERHABENEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Erhabenen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "38:4"
+    },
+    "DE_ENTITY_BUECHER": {
+      "id": "DE_ENTITY_BUECHER",
+      "root": null,
+      "root_key": null,
+      "concept": "Bücher",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "39:2"
+    },
+    "DE_ENTITY_ZORNS": {
+      "id": "DE_ENTITY_ZORNS",
+      "root": null,
+      "root_key": null,
+      "concept": "Zorns",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "39:2"
+    },
+    "DE_ENTITY_TUMULTS": {
+      "id": "DE_ENTITY_TUMULTS",
+      "root": null,
+      "root_key": null,
+      "concept": "Tumults",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "39:2"
+    },
+    "DE_ENTITY_UNRUHE": {
+      "id": "DE_ENTITY_UNRUHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Unruhe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "39:2"
+    },
+    "DE_ENTITY_WOLKE": {
+      "id": "DE_ENTITY_WOLKE",
+      "root": null,
+      "root_key": null,
+      "concept": "Wolke",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "39:3"
+    },
+    "DE_ENTITY_WOHNUNGEN": {
+      "id": "DE_ENTITY_WOHNUNGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wohnungen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "39:4"
+    },
+    "DE_ENTITY_LAGERSTAETTEN": {
+      "id": "DE_ENTITY_LAGERSTAETTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Lagerstätten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "39:4"
+    },
+    "DE_ENTITY_GLAUBENS": {
+      "id": "DE_ENTITY_GLAUBENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Glaubens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "39:6"
+    },
+    "DE_ENTITY_LOBPREIS": {
+      "id": "DE_ENTITY_LOBPREIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Lobpreis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "39:9"
+    },
+    "DE_ENTITY_GEISTERN": {
+      "id": "DE_ENTITY_GEISTERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Geistern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "39:12"
+    },
+    "DE_ENTITY_TAUSENDMAL": {
+      "id": "DE_ENTITY_TAUSENDMAL",
+      "root": null,
+      "root_key": null,
+      "concept": "Tausendmal",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "40:1"
+    },
+    "DE_ENTITY_TAUSEND": {
+      "id": "DE_ENTITY_TAUSEND",
+      "root": null,
+      "root_key": null,
+      "concept": "Tausend",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "40:1"
+    },
+    "DE_ENTITY_STIMMEN": {
+      "id": "DE_ENTITY_STIMMEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Stimmen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "40:3"
+    },
+    "DE_ENTITY_SATANE": {
+      "id": "DE_ENTITY_SATANE",
+      "root": null,
+      "root_key": null,
+      "concept": "Satane",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "40:7"
+    },
+    "DE_ENTITY_FRIEDENS": {
+      "id": "DE_ENTITY_FRIEDENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Friedens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "40:8"
+    },
+    "DE_ENTITY_VERBORGENE": {
+      "id": "DE_ENTITY_VERBORGENE",
+      "root": null,
+      "root_key": null,
+      "concept": "Verborgene",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "40:8"
+    },
+    "DE_ENTITY_MAECHTE": {
+      "id": "DE_ENTITY_MAECHTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Mächte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "40:9"
+    },
+    "DE_ENTITY_HOFFNUNG": {
+      "id": "DE_ENTITY_HOFFNUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Hoffnung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "40:9"
+    },
+    "DE_ENTITY_PHANUEL": {
+      "id": "DE_ENTITY_PHANUEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Phanuel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "40:9"
+    },
+    "DE_ENTITY_REICH": {
+      "id": "DE_ENTITY_REICH",
+      "root": null,
+      "root_key": null,
+      "concept": "Reich",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "41:1"
+    },
+    "DE_ENTITY_WAAGE": {
+      "id": "DE_ENTITY_WAAGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Waage",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "41:1"
+    },
+    "DE_ENTITY_DONNERS": {
+      "id": "DE_ENTITY_DONNERS",
+      "root": null,
+      "root_key": null,
+      "concept": "Donners",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "41:3"
+    },
+    "DE_ENTITY_TAUS": {
+      "id": "DE_ENTITY_TAUS",
+      "root": null,
+      "root_key": null,
+      "concept": "Taus",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "41:3"
+    },
+    "DE_ENTITY_STAUB": {
+      "id": "DE_ENTITY_STAUB",
+      "root": null,
+      "root_key": null,
+      "concept": "Staub",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "41:3"
+    },
+    "DE_ENTITY_VORRATSKAMMER": {
+      "id": "DE_ENTITY_VORRATSKAMMER",
+      "root": null,
+      "root_key": null,
+      "concept": "Vorratskammer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "41:4"
+    },
+    "DE_ENTITY_HAGELS": {
+      "id": "DE_ENTITY_HAGELS",
+      "root": null,
+      "root_key": null,
+      "concept": "Hagels",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "41:4"
+    },
+    "DE_ENTITY_NEBELS": {
+      "id": "DE_ENTITY_NEBELS",
+      "root": null,
+      "root_key": null,
+      "concept": "Nebels",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "41:4"
+    },
+    "DE_ENTITY_RUECKKEHR": {
+      "id": "DE_ENTITY_RUECKKEHR",
+      "root": null,
+      "root_key": null,
+      "concept": "Rückkehr",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "41:5"
+    },
+    "DE_ENTITY_BAHN": {
+      "id": "DE_ENTITY_BAHN",
+      "root": null,
+      "root_key": null,
+      "concept": "Bahn",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "41:5"
+    },
+    "DE_ENTITY_TREUE": {
+      "id": "DE_ENTITY_TREUE",
+      "root": null,
+      "root_key": null,
+      "concept": "Treue",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "41:5"
+    },
+    "DE_ENTITY_KREISLAUF": {
+      "id": "DE_ENTITY_KREISLAUF",
+      "root": null,
+      "root_key": null,
+      "concept": "Kreislauf",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "41:7"
+    },
+    "DE_ENTITY_SUENDERN": {
+      "id": "DE_ENTITY_SUENDERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Sündern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "41:8"
+    },
+    "DE_ENTITY_PLATZ": {
+      "id": "DE_ENTITY_PLATZ",
+      "root": null,
+      "root_key": null,
+      "concept": "Platz",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "42:2"
+    },
+    "DE_ENTITY_BLITZ": {
+      "id": "DE_ENTITY_BLITZ",
+      "root": null,
+      "root_key": null,
+      "concept": "Blitz",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "43:2"
+    },
+    "DE_ENTITY_STERNEN": {
+      "id": "DE_ENTITY_STERNEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Sternen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "44:1"
+    },
+    "DE_ENTITY_BEDRAENGNIS": {
+      "id": "DE_ENTITY_BEDRAENGNIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Bedrängnis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "45:2"
+    },
+    "DE_ENTITY_AUSERWAEHLTE": {
+      "id": "DE_ENTITY_AUSERWAEHLTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Auserwählte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "45:3"
+    },
+    "DE_ENTITY_RUHEPLAETZE": {
+      "id": "DE_ENTITY_RUHEPLAETZE",
+      "root": null,
+      "root_key": null,
+      "concept": "Ruheplätze",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "45:3"
+    },
+    "DE_ENTITY_HAUPT": {
+      "id": "DE_ENTITY_HAUPT",
+      "root": null,
+      "root_key": null,
+      "concept": "Haupt",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 16,
+      "first_seen": "46:1"
+    },
+    "DE_ENTITY_SCHAFWOLLE": {
+      "id": "DE_ENTITY_SCHAFWOLLE",
+      "root": null,
+      "root_key": null,
+      "concept": "Schafwolle",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "46:1"
+    },
+    "DE_ENTITY_MENSCHENSOHN": {
+      "id": "DE_ENTITY_MENSCHENSOHN",
+      "root": null,
+      "root_key": null,
+      "concept": "Menschensohn",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "46:2"
+    },
+    "DE_ENTITY_VERBORGENEN": {
+      "id": "DE_ENTITY_VERBORGENEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Verborgenen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "46:3"
+    },
+    "DE_ENTITY_AUFRICHTIGKEIT": {
+      "id": "DE_ENTITY_AUFRICHTIGKEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Aufrichtigkeit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 19,
+      "first_seen": "46:3"
+    },
+    "DE_ENTITY_STARKEN": {
+      "id": "DE_ENTITY_STARKEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Starken",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "46:4"
+    },
+    "DE_ENTITY_SITZEN": {
+      "id": "DE_ENTITY_SITZEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Sitzen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "46:4"
+    },
+    "DE_ENTITY_ZUEGEL": {
+      "id": "DE_ENTITY_ZUEGEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Zügel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "46:4"
+    },
+    "DE_ENTITY_REICHEN": {
+      "id": "DE_ENTITY_REICHEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Reichen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "46:5"
+    },
+    "DE_ENTITY_LAGER": {
+      "id": "DE_ENTITY_LAGER",
+      "root": null,
+      "root_key": null,
+      "concept": "Lager",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "46:6"
+    },
+    "DE_ENTITY_HOECHSTEN": {
+      "id": "DE_ENTITY_HOECHSTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Höchsten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "46:7"
+    },
+    "DE_ENTITY_REICHTUM": {
+      "id": "DE_ENTITY_REICHTUM",
+      "root": null,
+      "root_key": null,
+      "concept": "Reichtum",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "46:7"
+    },
+    "DE_ENTITY_VERSAMMLUNG": {
+      "id": "DE_ENTITY_VERSAMMLUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Versammlung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "46:8"
+    },
+    "DE_ENTITY_GLAEUBIGEN": {
+      "id": "DE_ENTITY_GLAEUBIGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gläubigen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "46:8"
+    },
+    "DE_ENTITY_GEBET": {
+      "id": "DE_ENTITY_GEBET",
+      "root": null,
+      "root_key": null,
+      "concept": "Gebet",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "47:1"
+    },
+    "DE_ENTITY_BLUTES": {
+      "id": "DE_ENTITY_BLUTES",
+      "root": null,
+      "root_key": null,
+      "concept": "Blutes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "47:2"
+    },
+    "DE_ENTITY_GEBETES": {
+      "id": "DE_ENTITY_GEBETES",
+      "root": null,
+      "root_key": null,
+      "concept": "Gebetes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "47:2"
+    },
+    "DE_ENTITY_GEDULD": {
+      "id": "DE_ENTITY_GEDULD",
+      "root": null,
+      "root_key": null,
+      "concept": "Geduld",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "47:2"
+    },
+    "DE_ENTITY_LEBENDIGEN": {
+      "id": "DE_ENTITY_LEBENDIGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Lebendigen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "47:3"
+    },
+    "DE_ENTITY_QUELLEN": {
+      "id": "DE_ENTITY_QUELLEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Quellen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "48:1"
+    },
+    "DE_ENTITY_ZEICHEN": {
+      "id": "DE_ENTITY_ZEICHEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Zeichen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "48:3"
+    },
+    "DE_ENTITY_STAB": {
+      "id": "DE_ENTITY_STAB",
+      "root": null,
+      "root_key": null,
+      "concept": "Stab",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "48:4"
+    },
+    "DE_ENTITY_WEGE": {
+      "id": "DE_ENTITY_WEGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Wege",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 16,
+      "first_seen": "48:7"
+    },
+    "DE_ENTITY_NOT": {
+      "id": "DE_ENTITY_NOT",
+      "root": null,
+      "root_key": null,
+      "concept": "Not",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "48:8"
+    },
+    "DE_ENTITY_GRAS": {
+      "id": "DE_ENTITY_GRAS",
+      "root": null,
+      "root_key": null,
+      "concept": "Gras",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "48:9"
+    },
+    "DE_ENTITY_BLEI": {
+      "id": "DE_ENTITY_BLEI",
+      "root": null,
+      "root_key": null,
+      "concept": "Blei",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "48:9"
+    },
+    "DE_ENTITY_GESALBTEN": {
+      "id": "DE_ENTITY_GESALBTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gesalbten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "48:10"
+    },
+    "DE_ENTITY_GEHEIMNISSEN": {
+      "id": "DE_ENTITY_GEHEIMNISSEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Geheimnissen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "49:2"
+    },
+    "DE_ENTITY_BESTAND": {
+      "id": "DE_ENTITY_BESTAND",
+      "root": null,
+      "root_key": null,
+      "concept": "Bestand",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "49:2"
+    },
+    "DE_ENTITY_EHRE": {
+      "id": "DE_ENTITY_EHRE",
+      "root": null,
+      "root_key": null,
+      "concept": "Ehre",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "50:1"
+    },
+    "DE_ENTITY_UEBEL": {
+      "id": "DE_ENTITY_UEBEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Übel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "50:2"
+    },
+    "DE_ENTITY_UNTERWELT": {
+      "id": "DE_ENTITY_UNTERWELT",
+      "root": null,
+      "root_key": null,
+      "concept": "Unterwelt",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "51:1"
+    },
+    "DE_ENTITY_RAT": {
+      "id": "DE_ENTITY_RAT",
+      "root": null,
+      "root_key": null,
+      "concept": "Rat",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "51:3"
+    },
+    "DE_ENTITY_MUNDES": {
+      "id": "DE_ENTITY_MUNDES",
+      "root": null,
+      "root_key": null,
+      "concept": "Mundes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "51:3"
+    },
+    "DE_ENTITY_WIDDER": {
+      "id": "DE_ENTITY_WIDDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Widder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 18,
+      "first_seen": "51:4"
+    },
+    "DE_ENTITY_LAEMMER": {
+      "id": "DE_ENTITY_LAEMMER",
+      "root": null,
+      "root_key": null,
+      "concept": "Lämmer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "51:4"
+    },
+    "DE_ENTITY_EISEN": {
+      "id": "DE_ENTITY_EISEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Eisen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "52:2"
+    },
+    "DE_ENTITY_KUPFER": {
+      "id": "DE_ENTITY_KUPFER",
+      "root": null,
+      "root_key": null,
+      "concept": "Kupfer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "52:2"
+    },
+    "DE_ENTITY_SILBER": {
+      "id": "DE_ENTITY_SILBER",
+      "root": null,
+      "root_key": null,
+      "concept": "Silber",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "52:2"
+    },
+    "DE_ENTITY_GOLD": {
+      "id": "DE_ENTITY_GOLD",
+      "root": null,
+      "root_key": null,
+      "concept": "Gold",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "52:2"
+    },
+    "DE_ENTITY_METALL": {
+      "id": "DE_ENTITY_METALL",
+      "root": null,
+      "root_key": null,
+      "concept": "Metall",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "52:2"
+    },
+    "DE_ENTITY_DINGE": {
+      "id": "DE_ENTITY_DINGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Dinge",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "52:3"
+    },
+    "DE_ENTITY_ALLES": {
+      "id": "DE_ENTITY_ALLES",
+      "root": null,
+      "root_key": null,
+      "concept": "Alles",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "52:4"
+    },
+    "DE_ENTITY_HERRSCHAFT": {
+      "id": "DE_ENTITY_HERRSCHAFT",
+      "root": null,
+      "root_key": null,
+      "concept": "Herrschaft",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "52:4"
+    },
+    "DE_ENTITY_ZINN": {
+      "id": "DE_ENTITY_ZINN",
+      "root": null,
+      "root_key": null,
+      "concept": "Zinn",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "52:8"
+    },
+    "DE_ENTITY_INSELN": {
+      "id": "DE_ENTITY_INSELN",
+      "root": null,
+      "root_key": null,
+      "concept": "Inseln",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "53:1"
+    },
+    "DE_ENTITY_GESCHENKE": {
+      "id": "DE_ENTITY_GESCHENKE",
+      "root": null,
+      "root_key": null,
+      "concept": "Geschenke",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "53:1"
+    },
+    "DE_ENTITY_UNRECHT": {
+      "id": "DE_ENTITY_UNRECHT",
+      "root": null,
+      "root_key": null,
+      "concept": "Unrecht",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "53:2"
+    },
+    "DE_ENTITY_WERKZEUGE": {
+      "id": "DE_ENTITY_WERKZEUGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Werkzeuge",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "53:3"
+    },
+    "DE_ENTITY_FUER": {
+      "id": "DE_ENTITY_FUER",
+      "root": null,
+      "root_key": null,
+      "concept": "Für",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "53:4"
+    },
+    "DE_ENTITY_MUEHSAL": {
+      "id": "DE_ENTITY_MUEHSAL",
+      "root": null,
+      "root_key": null,
+      "concept": "Mühsal",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "53:7"
+    },
+    "DE_ENTITY_FESSELN": {
+      "id": "DE_ENTITY_FESSELN",
+      "root": null,
+      "root_key": null,
+      "concept": "Fesseln",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "54:3"
+    },
+    "DE_ENTITY_HOELLE": {
+      "id": "DE_ENTITY_HOELLE",
+      "root": null,
+      "root_key": null,
+      "concept": "Hölle",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "54:5"
+    },
+    "DE_ENTITY_DIENER": {
+      "id": "DE_ENTITY_DIENER",
+      "root": null,
+      "root_key": null,
+      "concept": "Diener",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "54:6"
+    },
+    "DE_ENTITY_VON": {
+      "id": "DE_ENTITY_VON",
+      "root": null,
+      "root_key": null,
+      "concept": "Von",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "55:2"
+    },
+    "DE_ENTITY_BEFEHL": {
+      "id": "DE_ENTITY_BEFEHL",
+      "root": null,
+      "root_key": null,
+      "concept": "Befehl",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "55:3"
+    },
+    "DE_ENTITY_HAND": {
+      "id": "DE_ENTITY_HAND",
+      "root": null,
+      "root_key": null,
+      "concept": "Hand",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 14,
+      "first_seen": "55:3"
+    },
+    "DE_ENTITY_KETTEN": {
+      "id": "DE_ENTITY_KETTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Ketten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "56:1"
+    },
+    "DE_ENTITY_HAEUPTER": {
+      "id": "DE_ENTITY_HAEUPTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Häupter",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "56:5"
+    },
+    "DE_ENTITY_LOEWEN": {
+      "id": "DE_ENTITY_LOEWEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Löwen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "56:5"
+    },
+    "DE_ENTITY_WOELFE": {
+      "id": "DE_ENTITY_WOELFE",
+      "root": null,
+      "root_key": null,
+      "concept": "Wölfe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "56:5"
+    },
+    "DE_ENTITY_HERDEN": {
+      "id": "DE_ENTITY_HERDEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Herden",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "56:5"
+    },
+    "DE_ENTITY_ROSSEN": {
+      "id": "DE_ENTITY_ROSSEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Rossen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "56:7"
+    },
+    "DE_ENTITY_RECHTE": {
+      "id": "DE_ENTITY_RECHTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Rechte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "56:7"
+    },
+    "DE_ENTITY_NAECHSTEN": {
+      "id": "DE_ENTITY_NAECHSTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Nächsten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "56:7"
+    },
+    "DE_ENTITY_TOD": {
+      "id": "DE_ENTITY_TOD",
+      "root": null,
+      "root_key": null,
+      "concept": "Tod",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "56:7"
+    },
+    "DE_ENTITY_WAGEN": {
+      "id": "DE_ENTITY_WAGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wagen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "57:1"
+    },
+    "DE_ENTITY_MITTAG": {
+      "id": "DE_ENTITY_MITTAG",
+      "root": null,
+      "root_key": null,
+      "concept": "Mittag",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "57:1"
+    },
+    "DE_ENTITY_TUMULT": {
+      "id": "DE_ENTITY_TUMULT",
+      "root": null,
+      "root_key": null,
+      "concept": "Tumult",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "57:2"
+    },
+    "DE_ENTITY_STELLE": {
+      "id": "DE_ENTITY_STELLE",
+      "root": null,
+      "root_key": null,
+      "concept": "Stelle",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "57:2"
+    },
+    "DE_ENTITY_FRIEDE": {
+      "id": "DE_ENTITY_FRIEDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Friede",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "58:4"
+    },
+    "DE_ENTITY_MONAT": {
+      "id": "DE_ENTITY_MONAT",
+      "root": null,
+      "root_key": null,
+      "concept": "Monat",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "60:1"
+    },
+    "DE_ENTITY_MONATS": {
+      "id": "DE_ENTITY_MONATS",
+      "root": null,
+      "root_key": null,
+      "concept": "Monats",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "60:1"
+    },
+    "DE_ENTITY_MEINE": {
+      "id": "DE_ENTITY_MEINE",
+      "root": null,
+      "root_key": null,
+      "concept": "Meine",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "60:3"
+    },
+    "DE_ENTITY_ALS": {
+      "id": "DE_ENTITY_ALS",
+      "root": null,
+      "root_key": null,
+      "concept": "Als",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "60:4"
+    },
+    "DE_ENTITY_BIS": {
+      "id": "DE_ENTITY_BIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Bis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "60:5"
+    },
+    "DE_ENTITY_UNGEHEUER": {
+      "id": "DE_ENTITY_UNGEHEUER",
+      "root": null,
+      "root_key": null,
+      "concept": "Ungeheuer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "60:7"
+    },
+    "DE_ENTITY_MEERES": {
+      "id": "DE_ENTITY_MEERES",
+      "root": null,
+      "root_key": null,
+      "concept": "Meeres",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "60:7"
+    },
+    "DE_ENTITY_BRUST": {
+      "id": "DE_ENTITY_BRUST",
+      "root": null,
+      "root_key": null,
+      "concept": "Brust",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "60:8"
+    },
+    "DE_ENTITY_GROSSVATER": {
+      "id": "DE_ENTITY_GROSSVATER",
+      "root": null,
+      "root_key": null,
+      "concept": "Großvater",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "60:8"
+    },
+    "DE_ENTITY_GEISTES": {
+      "id": "DE_ENTITY_GEISTES",
+      "root": null,
+      "root_key": null,
+      "concept": "Geistes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "60:12"
+    },
+    "DE_ENTITY_TEILE": {
+      "id": "DE_ENTITY_TEILE",
+      "root": null,
+      "root_key": null,
+      "concept": "Teile",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 48,
+      "first_seen": "60:12"
+    },
+    "DE_ENTITY_ORTEN": {
+      "id": "DE_ENTITY_ORTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Orten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "60:13"
+    },
+    "DE_ENTITY_ZEITEN": {
+      "id": "DE_ENTITY_ZEITEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Zeiten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 12,
+      "first_seen": "60:15"
+    },
+    "DE_ENTITY_SAND": {
+      "id": "DE_ENTITY_SAND",
+      "root": null,
+      "root_key": null,
+      "concept": "Sand",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "60:15"
+    },
+    "DE_ENTITY_REIFS": {
+      "id": "DE_ENTITY_REIFS",
+      "root": null,
+      "root_key": null,
+      "concept": "Reifs",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "60:17"
+    },
+    "DE_ENTITY_REGENS": {
+      "id": "DE_ENTITY_REGENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Regens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "60:20"
+    },
+    "DE_ENTITY_NAHRUNG": {
+      "id": "DE_ENTITY_NAHRUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Nahrung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "60:22"
+    },
+    "DE_ENTITY_SCHNUERE": {
+      "id": "DE_ENTITY_SCHNUERE",
+      "root": null,
+      "root_key": null,
+      "concept": "Schnüre",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "61:1"
+    },
+    "DE_ENTITY_MASSE": {
+      "id": "DE_ENTITY_MASSE",
+      "root": null,
+      "root_key": null,
+      "concept": "Maße",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "61:3"
+    },
+    "DE_ENTITY_GLAUBEN": {
+      "id": "DE_ENTITY_GLAUBEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Glauben",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "61:4"
+    },
+    "DE_ENTITY_TIEREN": {
+      "id": "DE_ENTITY_TIEREN",
+      "root": null,
+      "root_key": null,
+      "concept": "Tieren",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "61:5"
+    },
+    "DE_ENTITY_PFADE": {
+      "id": "DE_ENTITY_PFADE",
+      "root": null,
+      "root_key": null,
+      "concept": "Pfade",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "61:9"
+    },
+    "DE_ENTITY_SERAPHIM": {
+      "id": "DE_ENTITY_SERAPHIM",
+      "root": null,
+      "root_key": null,
+      "concept": "Seraphim",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "61:10"
+    },
+    "DE_ENTITY_OPHANIM": {
+      "id": "DE_ENTITY_OPHANIM",
+      "root": null,
+      "root_key": null,
+      "concept": "Ophanim",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "61:10"
+    },
+    "DE_ENTITY_GEISTE": {
+      "id": "DE_ENTITY_GEISTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Geiste",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "61:11"
+    },
+    "DE_ENTITY_LICHTS": {
+      "id": "DE_ENTITY_LICHTS",
+      "root": null,
+      "root_key": null,
+      "concept": "Lichts",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "61:12"
+    },
+    "DE_ENTITY_MASSEN": {
+      "id": "DE_ENTITY_MASSEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Maßen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "61:12"
+    },
+    "DE_ENTITY_KOENIGEN": {
+      "id": "DE_ENTITY_KOENIGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Königen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "62:1"
+    },
+    "DE_ENTITY_HOERNER": {
+      "id": "DE_ENTITY_HOERNER",
+      "root": null,
+      "root_key": null,
+      "concept": "Hörner",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "62:1"
+    },
+    "DE_ENTITY_UNGERECHTEN": {
+      "id": "DE_ENTITY_UNGERECHTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Ungerechten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "62:2"
+    },
+    "DE_ENTITY_FRAU": {
+      "id": "DE_ENTITY_FRAU",
+      "root": null,
+      "root_key": null,
+      "concept": "Frau",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "62:4"
+    },
+    "DE_ENTITY_KIND": {
+      "id": "DE_ENTITY_KIND",
+      "root": null,
+      "root_key": null,
+      "concept": "Kind",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "62:4"
+    },
+    "DE_ENTITY_ANGESICHTS": {
+      "id": "DE_ENTITY_ANGESICHTS",
+      "root": null,
+      "root_key": null,
+      "concept": "Angesichts",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "62:15"
+    },
+    "DE_ENTITY_GEWAENDER": {
+      "id": "DE_ENTITY_GEWAENDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Gewänder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "62:16"
+    },
+    "DE_ENTITY_TUNS": {
+      "id": "DE_ENTITY_TUNS",
+      "root": null,
+      "root_key": null,
+      "concept": "Tuns",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "63:9"
+    },
+    "DE_ENTITY_GUT": {
+      "id": "DE_ENTITY_GUT",
+      "root": null,
+      "root_key": null,
+      "concept": "Gut",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "63:10"
+    },
+    "DE_ENTITY_GESETZ": {
+      "id": "DE_ENTITY_GESETZ",
+      "root": null,
+      "root_key": null,
+      "concept": "Gesetz",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "63:12"
+    },
+    "DE_ENTITY_NOAH": {
+      "id": "DE_ENTITY_NOAH",
+      "root": null,
+      "root_key": null,
+      "concept": "Noah",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "65:1"
+    },
+    "DE_ENTITY_FUESSE": {
+      "id": "DE_ENTITY_FUESSE",
+      "root": null,
+      "root_key": null,
+      "concept": "Füße",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "65:2"
+    },
+    "DE_ENTITY_SAGE": {
+      "id": "DE_ENTITY_SAGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Sage",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "65:3"
+    },
+    "DE_ENTITY_WEINEN": {
+      "id": "DE_ENTITY_WEINEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Weinen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "65:5"
+    },
+    "DE_ENTITY_MONATE": {
+      "id": "DE_ENTITY_MONATE",
+      "root": null,
+      "root_key": null,
+      "concept": "Monate",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "65:10"
+    },
+    "DE_ENTITY_WASSERMAECHTE": {
+      "id": "DE_ENTITY_WASSERMAECHTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Wassermächte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "66:1"
+    },
+    "DE_ENTITY_TADEL": {
+      "id": "DE_ENTITY_TADEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Tadel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "67:1"
+    },
+    "DE_ENTITY_VERAENDERUNG": {
+      "id": "DE_ENTITY_VERAENDERUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Veränderung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "67:2"
+    },
+    "DE_ENTITY_BEWOHNER": {
+      "id": "DE_ENTITY_BEWOHNER",
+      "root": null,
+      "root_key": null,
+      "concept": "Bewohner",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "67:7"
+    },
+    "DE_ENTITY_ZEUGNIS": {
+      "id": "DE_ENTITY_ZEUGNIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Zeugnis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "67:12"
+    },
+    "DE_ENTITY_TODE": {
+      "id": "DE_ENTITY_TODE",
+      "root": null,
+      "root_key": null,
+      "concept": "Tode",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "67:13"
+    },
+    "DE_ENTITY_WORTEN": {
+      "id": "DE_ENTITY_WORTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Worten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "68:1"
+    },
+    "DE_ENTITY_BUCHES": {
+      "id": "DE_ENTITY_BUCHES",
+      "root": null,
+      "root_key": null,
+      "concept": "Buches",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "68:1"
+    },
+    "DE_ENTITY_HERZ": {
+      "id": "DE_ENTITY_HERZ",
+      "root": null,
+      "root_key": null,
+      "concept": "Herz",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "68:3"
+    },
+    "DE_ENTITY_SEITE": {
+      "id": "DE_ENTITY_SEITE",
+      "root": null,
+      "root_key": null,
+      "concept": "Seite",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "68:4"
+    },
+    "DE_ENTITY_MORDWAFFEN": {
+      "id": "DE_ENTITY_MORDWAFFEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Mordwaffen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "69:6"
+    },
+    "DE_ENTITY_SCHREIBEN": {
+      "id": "DE_ENTITY_SCHREIBEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Schreiben",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "69:9"
+    },
+    "DE_ENTITY_TINTE": {
+      "id": "DE_ENTITY_TINTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Tinte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "69:9"
+    },
+    "DE_ENTITY_STREICHE": {
+      "id": "DE_ENTITY_STREICHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Streiche",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "69:12"
+    },
+    "DE_ENTITY_SCHLANGE": {
+      "id": "DE_ENTITY_SCHLANGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Schlange",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "69:12"
+    },
+    "DE_ENTITY_EIDES": {
+      "id": "DE_ENTITY_EIDES",
+      "root": null,
+      "root_key": null,
+      "concept": "Eides",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "69:13"
+    },
+    "DE_ENTITY_TIEFEN": {
+      "id": "DE_ENTITY_TIEFEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Tiefen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "69:19"
+    },
+    "DE_ENTITY_MOND": {
+      "id": "DE_ENTITY_MOND",
+      "root": null,
+      "root_key": null,
+      "concept": "Mond",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 23,
+      "first_seen": "69:20"
+    },
+    "DE_ENTITY_BOESE": {
+      "id": "DE_ENTITY_BOESE",
+      "root": null,
+      "root_key": null,
+      "concept": "Böse",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "69:29"
+    },
+    "DE_ENTITY_FEUERS": {
+      "id": "DE_ENTITY_FEUERS",
+      "root": null,
+      "root_key": null,
+      "concept": "Feuers",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "71:2"
+    },
+    "DE_ENTITY_HAUPTES": {
+      "id": "DE_ENTITY_HAUPTES",
+      "root": null,
+      "root_key": null,
+      "concept": "Hauptes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "71:14"
+    },
+    "DE_ENTITY_BEWEGUNG": {
+      "id": "DE_ENTITY_BEWEGUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Bewegung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "72:1"
+    },
+    "DE_ENTITY_ART": {
+      "id": "DE_ENTITY_ART",
+      "root": null,
+      "root_key": null,
+      "concept": "Art",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "72:1"
+    },
+    "DE_ENTITY_FUEHRER": {
+      "id": "DE_ENTITY_FUEHRER",
+      "root": null,
+      "root_key": null,
+      "concept": "Führer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 19,
+      "first_seen": "72:1"
+    },
+    "DE_ENTITY_ALLE": {
+      "id": "DE_ENTITY_ALLE",
+      "root": null,
+      "root_key": null,
+      "concept": "Alle",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "72:3"
+    },
+    "DE_ENTITY_ORDNUNG": {
+      "id": "DE_ENTITY_ORDNUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Ordnung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 13,
+      "first_seen": "72:3"
+    },
+    "DE_ENTITY_FENSTER": {
+      "id": "DE_ENTITY_FENSTER",
+      "root": null,
+      "root_key": null,
+      "concept": "Fenster",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "72:3"
+    },
+    "DE_ENTITY_RECHTEN": {
+      "id": "DE_ENTITY_RECHTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Rechten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "72:3"
+    },
+    "DE_ENTITY_LINKEN": {
+      "id": "DE_ENTITY_LINKEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Linken",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "72:3"
+    },
+    "DE_ENTITY_UMFANG": {
+      "id": "DE_ENTITY_UMFANG",
+      "root": null,
+      "root_key": null,
+      "concept": "Umfang",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "72:4"
+    },
+    "DE_ENTITY_ANTLITZ": {
+      "id": "DE_ENTITY_ANTLITZ",
+      "root": null,
+      "root_key": null,
+      "concept": "Antlitz",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "72:5"
+    },
+    "DE_ENTITY_FENSTEROEFFNUNGEN": {
+      "id": "DE_ENTITY_FENSTEROEFFNUNGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Fensteröffnungen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "72:7"
+    },
+    "DE_ENTITY_MORGEN": {
+      "id": "DE_ENTITY_MORGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Morgen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 17,
+      "first_seen": "72:8"
+    },
+    "DE_ENTITY_TAGES": {
+      "id": "DE_ENTITY_TAGES",
+      "root": null,
+      "root_key": null,
+      "concept": "Tages",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "72:26"
+    },
+    "DE_ENTITY_ABSCHNITTE": {
+      "id": "DE_ENTITY_ABSCHNITTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Abschnitte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "72:27"
+    },
+    "DE_ENTITY_WIEDERUM": {
+      "id": "DE_ENTITY_WIEDERUM",
+      "root": null,
+      "root_key": null,
+      "concept": "Wiederum",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "72:27"
+    },
+    "DE_ENTITY_ABSCHNITTEN": {
+      "id": "DE_ENTITY_ABSCHNITTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Abschnitten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "72:27"
+    },
+    "DE_ENTITY_LAENGE": {
+      "id": "DE_ENTITY_LAENGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Länge",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "72:30"
+    },
+    "DE_ENTITY_HAELFTE": {
+      "id": "DE_ENTITY_HAELFTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Hälfte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "73:5"
+    },
+    "DE_ENTITY_TEILEN": {
+      "id": "DE_ENTITY_TEILEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Teilen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "73:5"
+    },
+    "DE_ENTITY_TEILS": {
+      "id": "DE_ENTITY_TEILS",
+      "root": null,
+      "root_key": null,
+      "concept": "Teils",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "73:7"
+    },
+    "DE_ENTITY_STELLUNGEN": {
+      "id": "DE_ENTITY_STELLUNGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Stellungen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "74:2"
+    },
+    "DE_ENTITY_UNTERSCHIED": {
+      "id": "DE_ENTITY_UNTERSCHIED",
+      "root": null,
+      "root_key": null,
+      "concept": "Unterschied",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "74:11"
+    },
+    "DE_ENTITY_JAHREN": {
+      "id": "DE_ENTITY_JAHREN",
+      "root": null,
+      "root_key": null,
+      "concept": "Jahren",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 9,
+      "first_seen": "74:11"
+    },
+    "DE_ENTITY_TAUSENDSCHAFTEN": {
+      "id": "DE_ENTITY_TAUSENDSCHAFTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Tausendschaften",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "75:1"
+    },
+    "DE_ENTITY_RECHNUNG": {
+      "id": "DE_ENTITY_RECHNUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Rechnung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "75:1"
+    },
+    "DE_ENTITY_JAHRES": {
+      "id": "DE_ENTITY_JAHRES",
+      "root": null,
+      "root_key": null,
+      "concept": "Jahres",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "75:1"
+    },
+    "DE_ENTITY_TROCKENHEIT": {
+      "id": "DE_ENTITY_TROCKENHEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Trockenheit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "76:5"
+    },
+    "DE_ENTITY_DURCH": {
+      "id": "DE_ENTITY_DURCH",
+      "root": null,
+      "root_key": null,
+      "concept": "Durch",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "76:6"
+    },
+    "DE_ENTITY_WINDEN": {
+      "id": "DE_ENTITY_WINDEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Winden",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "76:7"
+    },
+    "DE_ENTITY_HEUSCHRECKEN": {
+      "id": "DE_ENTITY_HEUSCHRECKEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Heuschrecken",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "76:9"
+    },
+    "DE_ENTITY_ALL": {
+      "id": "DE_ENTITY_ALL",
+      "root": null,
+      "root_key": null,
+      "concept": "All",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "76:14"
+    },
+    "DE_ENTITY_METUSCHELACH": {
+      "id": "DE_ENTITY_METUSCHELACH",
+      "root": null,
+      "root_key": null,
+      "concept": "Metuschelach",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 14,
+      "first_seen": "76:14"
+    },
+    "DE_ENTITY_ROTEN": {
+      "id": "DE_ENTITY_ROTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Roten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "77:7"
+    },
+    "DE_ENTITY_ZWEI": {
+      "id": "DE_ENTITY_ZWEI",
+      "root": null,
+      "root_key": null,
+      "concept": "Zwei",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "77:7"
+    },
+    "DE_ENTITY_ABNAHME": {
+      "id": "DE_ENTITY_ABNAHME",
+      "root": null,
+      "root_key": null,
+      "concept": "Abnahme",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "78:8"
+    },
+    "DE_ENTITY_ZEITRAUM": {
+      "id": "DE_ENTITY_ZEITRAUM",
+      "root": null,
+      "root_key": null,
+      "concept": "Zeitraum",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "78:15"
+    },
+    "DE_ENTITY_WOCHE": {
+      "id": "DE_ENTITY_WOCHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Woche",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "79:2"
+    },
+    "DE_ENTITY_WOCHEN": {
+      "id": "DE_ENTITY_WOCHEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wochen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "79:4"
+    },
+    "DE_ENTITY_FELDERN": {
+      "id": "DE_ENTITY_FELDERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Feldern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "80:2"
+    },
+    "DE_ENTITY_GEDANKEN": {
+      "id": "DE_ENTITY_GEDANKEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gedanken",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "80:7"
+    },
+    "DE_ENTITY_SCHRIFTTAFELN": {
+      "id": "DE_ENTITY_SCHRIFTTAFELN",
+      "root": null,
+      "root_key": null,
+      "concept": "Schrifttafeln",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "81:1"
+    },
+    "DE_ENTITY_GESCHLECHTERN": {
+      "id": "DE_ENTITY_GESCHLECHTERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Geschlechtern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "81:2"
+    },
+    "DE_ENTITY_SELIG": {
+      "id": "DE_ENTITY_SELIG",
+      "root": null,
+      "root_key": null,
+      "concept": "Selig",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "81:4"
+    },
+    "DE_ENTITY_VATERS": {
+      "id": "DE_ENTITY_VATERS",
+      "root": null,
+      "root_key": null,
+      "concept": "Vaters",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "82:1"
+    },
+    "DE_ENTITY_OHR": {
+      "id": "DE_ENTITY_OHR",
+      "root": null,
+      "root_key": null,
+      "concept": "Ohr",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "82:3"
+    },
+    "DE_ENTITY_SPEISEN": {
+      "id": "DE_ENTITY_SPEISEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Speisen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "82:3"
+    },
+    "DE_ENTITY_FUEHRERN": {
+      "id": "DE_ENTITY_FUEHRERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Führern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "82:4"
+    },
+    "DE_ENTITY_DENN": {
+      "id": "DE_ENTITY_DENN",
+      "root": null,
+      "root_key": null,
+      "concept": "Denn",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "82:7"
+    },
+    "DE_ENTITY_ORDNUNGEN": {
+      "id": "DE_ENTITY_ORDNUNGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Ordnungen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "82:10"
+    },
+    "DE_ENTITY_DANACH": {
+      "id": "DE_ENTITY_DANACH",
+      "root": null,
+      "root_key": null,
+      "concept": "Danach",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "82:11"
+    },
+    "DE_ENTITY_MELKEJAL": {
+      "id": "DE_ENTITY_MELKEJAL",
+      "root": null,
+      "root_key": null,
+      "concept": "Melkejal",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "82:13"
+    },
+    "DE_ENTITY_HELEMMELEK": {
+      "id": "DE_ENTITY_HELEMMELEK",
+      "root": null,
+      "root_key": null,
+      "concept": "Helemmelek",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "82:13"
+    },
+    "DE_ENTITY_FELDE": {
+      "id": "DE_ENTITY_FELDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Felde",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "82:16"
+    },
+    "DE_ENTITY_VOLLENDET": {
+      "id": "DE_ENTITY_VOLLENDET",
+      "root": null,
+      "root_key": null,
+      "concept": "Vollendet",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "82:17"
+    },
+    "DE_ENTITY_SCHAFE": {
+      "id": "DE_ENTITY_SCHAFE",
+      "root": null,
+      "root_key": null,
+      "concept": "Schafe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 102,
+      "first_seen": "82:19"
+    },
+    "DE_ENTITY_MAN": {
+      "id": "DE_ENTITY_MAN",
+      "root": null,
+      "root_key": null,
+      "concept": "Man",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "82:19"
+    },
+    "DE_ENTITY_ZEHNTAUSENDSCHAFTEN": {
+      "id": "DE_ENTITY_ZEHNTAUSENDSCHAFTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Zehntausendschaften",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "82:20"
+    },
+    "DE_ENTITY_WEIB": {
+      "id": "DE_ENTITY_WEIB",
+      "root": null,
+      "root_key": null,
+      "concept": "Weib",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "83:2"
+    },
+    "DE_ENTITY_EDNA": {
+      "id": "DE_ENTITY_EDNA",
+      "root": null,
+      "root_key": null,
+      "concept": "Edna",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "83:2"
+    },
+    "DE_ENTITY_ABGRUENDE": {
+      "id": "DE_ENTITY_ABGRUENDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Abgründe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "83:7"
+    },
+    "DE_ENTITY_UEBERREST": {
+      "id": "DE_ENTITY_UEBERREST",
+      "root": null,
+      "root_key": null,
+      "concept": "Überrest",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "83:8"
+    },
+    "DE_ENTITY_NACHKOMMEN": {
+      "id": "DE_ENTITY_NACHKOMMEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Nachkommen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "84:5"
+    },
+    "DE_ENTITY_STIER": {
+      "id": "DE_ENTITY_STIER",
+      "root": null,
+      "root_key": null,
+      "concept": "Stier",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 20,
+      "first_seen": "85:3"
+    },
+    "DE_ENTITY_KUH": {
+      "id": "DE_ENTITY_KUH",
+      "root": null,
+      "root_key": null,
+      "concept": "Kuh",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "85:3"
+    },
+    "DE_ENTITY_STIERE": {
+      "id": "DE_ENTITY_STIERE",
+      "root": null,
+      "root_key": null,
+      "concept": "Stiere",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 15,
+      "first_seen": "85:3"
+    },
+    "DE_ENTITY_KUEHE": {
+      "id": "DE_ENTITY_KUEHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Kühe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "85:8"
+    },
+    "DE_ENTITY_STERN": {
+      "id": "DE_ENTITY_STERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Stern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "86:1"
+    },
+    "DE_ENTITY_STIEREN": {
+      "id": "DE_ENTITY_STIEREN",
+      "root": null,
+      "root_key": null,
+      "concept": "Stieren",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "86:1"
+    },
+    "DE_ENTITY_WEIDE": {
+      "id": "DE_ENTITY_WEIDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Weide",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "86:2"
+    },
+    "DE_ENTITY_GLIEDER": {
+      "id": "DE_ENTITY_GLIEDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Glieder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "86:4"
+    },
+    "DE_ENTITY_ELEPHANTEN": {
+      "id": "DE_ENTITY_ELEPHANTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Elephanten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "86:4"
+    },
+    "DE_ENTITY_KAMELE": {
+      "id": "DE_ENTITY_KAMELE",
+      "root": null,
+      "root_key": null,
+      "concept": "Kamele",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "86:4"
+    },
+    "DE_ENTITY_ESEL": {
+      "id": "DE_ENTITY_ESEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Esel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "86:4"
+    },
+    "DE_ENTITY_HOERNERN": {
+      "id": "DE_ENTITY_HOERNERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Hörnern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "86:5"
+    },
+    "DE_ENTITY_TURM": {
+      "id": "DE_ENTITY_TURM",
+      "root": null,
+      "root_key": null,
+      "concept": "Turm",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 11,
+      "first_seen": "87:3"
+    },
+    "DE_ENTITY_ESELN": {
+      "id": "DE_ENTITY_ESELN",
+      "root": null,
+      "root_key": null,
+      "concept": "Eseln",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "88:2"
+    },
+    "DE_ENTITY_SPALTEN": {
+      "id": "DE_ENTITY_SPALTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Spalten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "88:3"
+    },
+    "DE_ENTITY_SCHIFF": {
+      "id": "DE_ENTITY_SCHIFF",
+      "root": null,
+      "root_key": null,
+      "concept": "Schiff",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "89:1"
+    },
+    "DE_ENTITY_WASSERLAEUFE": {
+      "id": "DE_ENTITY_WASSERLAEUFE",
+      "root": null,
+      "root_key": null,
+      "concept": "Wasserläufe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "89:2"
+    },
+    "DE_ENTITY_HOF": {
+      "id": "DE_ENTITY_HOF",
+      "root": null,
+      "root_key": null,
+      "concept": "Hof",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "89:2"
+    },
+    "DE_ENTITY_VOELKERN": {
+      "id": "DE_ENTITY_VOELKERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Völkern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_PANTHER": {
+      "id": "DE_ENTITY_PANTHER",
+      "root": null,
+      "root_key": null,
+      "concept": "Panther",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_HUNDE": {
+      "id": "DE_ENTITY_HUNDE",
+      "root": null,
+      "root_key": null,
+      "concept": "Hunde",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_HYAENEN": {
+      "id": "DE_ENTITY_HYAENEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Hyänen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_WILDSCHWEINE": {
+      "id": "DE_ENTITY_WILDSCHWEINE",
+      "root": null,
+      "root_key": null,
+      "concept": "Wildschweine",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_FUECHSE": {
+      "id": "DE_ENTITY_FUECHSE",
+      "root": null,
+      "root_key": null,
+      "concept": "Füchse",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_FALKEN": {
+      "id": "DE_ENTITY_FALKEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Falken",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_GEIER": {
+      "id": "DE_ENTITY_GEIER",
+      "root": null,
+      "root_key": null,
+      "concept": "Geier",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_HABICHTE": {
+      "id": "DE_ENTITY_HABICHTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Habichte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_RABEN": {
+      "id": "DE_ENTITY_RABEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Raben",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 8,
+      "first_seen": "89:10"
+    },
+    "DE_ENTITY_WILDESEL": {
+      "id": "DE_ENTITY_WILDESEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Wildesel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "89:11"
+    },
+    "DE_ENTITY_SCHAF": {
+      "id": "DE_ENTITY_SCHAF",
+      "root": null,
+      "root_key": null,
+      "concept": "Schaf",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 24,
+      "first_seen": "89:12"
+    },
+    "DE_ENTITY_WOELFEN": {
+      "id": "DE_ENTITY_WOELFEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Wölfen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 10,
+      "first_seen": "89:13"
+    },
+    "DE_ENTITY_JUNGEN": {
+      "id": "DE_ENTITY_JUNGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Jungen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "89:15"
+    },
+    "DE_ENTITY_SCHAFEN": {
+      "id": "DE_ENTITY_SCHAFEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Schafen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 22,
+      "first_seen": "89:20"
+    },
+    "DE_ENTITY_WASSERGRUND": {
+      "id": "DE_ENTITY_WASSERGRUND",
+      "root": null,
+      "root_key": null,
+      "concept": "Wassergrund",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "89:23"
+    },
+    "DE_ENTITY_FELSENS": {
+      "id": "DE_ENTITY_FELSENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Felsens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "89:29"
+    },
+    "DE_ENTITY_HUERDEN": {
+      "id": "DE_ENTITY_HUERDEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Hürden",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "89:34"
+    },
+    "DE_ENTITY_HIRTEN": {
+      "id": "DE_ENTITY_HIRTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Hirten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 24,
+      "first_seen": "89:37"
+    },
+    "DE_ENTITY_WASSERFLUSS": {
+      "id": "DE_ENTITY_WASSERFLUSS",
+      "root": null,
+      "root_key": null,
+      "concept": "Wasserfluss",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "89:37"
+    },
+    "DE_ENTITY_SCHREIEN": {
+      "id": "DE_ENTITY_SCHREIEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Schreien",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "89:39"
+    },
+    "DE_ENTITY_WIDDERS": {
+      "id": "DE_ENTITY_WIDDERS",
+      "root": null,
+      "root_key": null,
+      "concept": "Widders",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "89:45"
+    },
+    "DE_ENTITY_FUERSTEN": {
+      "id": "DE_ENTITY_FUERSTEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Fürsten",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "89:46"
+    },
+    "DE_ENTITY_TISCH": {
+      "id": "DE_ENTITY_TISCH",
+      "root": null,
+      "root_key": null,
+      "concept": "Tisch",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "89:50"
+    },
+    "DE_ENTITY_MORD": {
+      "id": "DE_ENTITY_MORD",
+      "root": null,
+      "root_key": null,
+      "concept": "Mord",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "89:54"
+    },
+    "DE_ENTITY_ADLER": {
+      "id": "DE_ENTITY_ADLER",
+      "root": null,
+      "root_key": null,
+      "concept": "Adler",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 6,
+      "first_seen": "90:2"
+    },
+    "DE_ENTITY_GEBEIN": {
+      "id": "DE_ENTITY_GEBEIN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gebein",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "90:4"
+    },
+    "DE_ENTITY_HORN": {
+      "id": "DE_ENTITY_HORN",
+      "root": null,
+      "root_key": null,
+      "concept": "Horn",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "90:9"
+    },
+    "DE_ENTITY_HILFE": {
+      "id": "DE_ENTITY_HILFE",
+      "root": null,
+      "root_key": null,
+      "concept": "Hilfe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "90:13"
+    },
+    "DE_ENTITY_UNTERGANGS": {
+      "id": "DE_ENTITY_UNTERGANGS",
+      "root": null,
+      "root_key": null,
+      "concept": "Untergangs",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "90:17"
+    },
+    "DE_ENTITY_MAENNER": {
+      "id": "DE_ENTITY_MAENNER",
+      "root": null,
+      "root_key": null,
+      "concept": "Männer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "90:21"
+    },
+    "DE_ENTITY_BALKEN": {
+      "id": "DE_ENTITY_BALKEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Balken",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "90:28"
+    },
+    "DE_ENTITY_TRAENEN": {
+      "id": "DE_ENTITY_TRAENEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Tränen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "90:41"
+    },
+    "DE_ENTITY_BRUEDER": {
+      "id": "DE_ENTITY_BRUEDER",
+      "root": null,
+      "root_key": null,
+      "concept": "Brüder",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "91:1"
+    },
+    "DE_ENTITY_JEDES": {
+      "id": "DE_ENTITY_JEDES",
+      "root": null,
+      "root_key": null,
+      "concept": "Jedes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "91:5"
+    },
+    "DE_ENTITY_MAL": {
+      "id": "DE_ENTITY_MAL",
+      "root": null,
+      "root_key": null,
+      "concept": "Mal",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "91:6"
+    },
+    "DE_ENTITY_ABTRUENNIGKEIT": {
+      "id": "DE_ENTITY_ABTRUENNIGKEIT",
+      "root": null,
+      "root_key": null,
+      "concept": "Abtrünnigkeit",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "91:7"
+    },
+    "DE_ENTITY_LIST": {
+      "id": "DE_ENTITY_LIST",
+      "root": null,
+      "root_key": null,
+      "concept": "List",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 5,
+      "first_seen": "91:8"
+    },
+    "DE_ENTITY_HAEUSER": {
+      "id": "DE_ENTITY_HAEUSER",
+      "root": null,
+      "root_key": null,
+      "concept": "Häuser",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "91:13"
+    },
+    "DE_ENTITY_BUECHERN": {
+      "id": "DE_ENTITY_BUECHERN",
+      "root": null,
+      "root_key": null,
+      "concept": "Büchern",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "93:1"
+    },
+    "DE_ENTITY_REICHES": {
+      "id": "DE_ENTITY_REICHES",
+      "root": null,
+      "root_key": null,
+      "concept": "Reiches",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "93:8"
+    },
+    "DE_ENTITY_WURZEL": {
+      "id": "DE_ENTITY_WURZEL",
+      "root": null,
+      "root_key": null,
+      "concept": "Wurzel",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "93:8"
+    },
+    "DE_ENTITY_IHNEN": {
+      "id": "DE_ENTITY_IHNEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Ihnen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "93:10"
+    },
+    "DE_ENTITY_HERZENS": {
+      "id": "DE_ENTITY_HERZENS",
+      "root": null,
+      "root_key": null,
+      "concept": "Herzens",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "94:5"
+    },
+    "DE_ENTITY_SPOTT": {
+      "id": "DE_ENTITY_SPOTT",
+      "root": null,
+      "root_key": null,
+      "concept": "Spott",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "94:11"
+    },
+    "DE_ENTITY_JOCH": {
+      "id": "DE_ENTITY_JOCH",
+      "root": null,
+      "root_key": null,
+      "concept": "Joch",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "95:7"
+    },
+    "DE_ENTITY_GEDAECHTNIS": {
+      "id": "DE_ENTITY_GEDAECHTNIS",
+      "root": null,
+      "root_key": null,
+      "concept": "Gedächtnis",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 4,
+      "first_seen": "96:4"
+    },
+    "DE_ENTITY_GEDENKEN": {
+      "id": "DE_ENTITY_GEDENKEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Gedenken",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "97:7"
+    },
+    "DE_ENTITY_LUEGE": {
+      "id": "DE_ENTITY_LUEGE",
+      "root": null,
+      "root_key": null,
+      "concept": "Lüge",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "97:10"
+    },
+    "DE_ENTITY_VERFLUCHUNG": {
+      "id": "DE_ENTITY_VERFLUCHUNG",
+      "root": null,
+      "root_key": null,
+      "concept": "Verfluchung",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "97:10"
+    },
+    "DE_ENTITY_WEISEN": {
+      "id": "DE_ENTITY_WEISEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Weisen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "98:1"
+    },
+    "DE_ENTITY_GUTE": {
+      "id": "DE_ENTITY_GUTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Gute",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 7,
+      "first_seen": "98:9"
+    },
+    "DE_ENTITY_AUS": {
+      "id": "DE_ENTITY_AUS",
+      "root": null,
+      "root_key": null,
+      "concept": "Aus",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "98:11"
+    },
+    "DE_ENTITY_WISST": {
+      "id": "DE_ENTITY_WISST",
+      "root": null,
+      "root_key": null,
+      "concept": "Wisst",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "98:12"
+    },
+    "DE_ENTITY_LUEGENWORTE": {
+      "id": "DE_ENTITY_LUEGENWORTE",
+      "root": null,
+      "root_key": null,
+      "concept": "Lügenworte",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "98:15"
+    },
+    "DE_ENTITY_LUEGEN": {
+      "id": "DE_ENTITY_LUEGEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Lügen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "98:15"
+    },
+    "DE_ENTITY_GOETZEN": {
+      "id": "DE_ENTITY_GOETZEN",
+      "root": null,
+      "root_key": null,
+      "concept": "Götzen",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "99:7"
+    },
+    "DE_ENTITY_LOHE": {
+      "id": "DE_ENTITY_LOHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Lohe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "100:9"
+    },
+    "DE_ENTITY_SCHIFFSKAPITAENE": {
+      "id": "DE_ENTITY_SCHIFFSKAPITAENE",
+      "root": null,
+      "root_key": null,
+      "concept": "Schiffskapitäne",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "101:4"
+    },
+    "DE_ENTITY_JAMMER": {
+      "id": "DE_ENTITY_JAMMER",
+      "root": null,
+      "root_key": null,
+      "concept": "Jammer",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "102:5"
+    },
+    "DE_ENTITY_GUTES": {
+      "id": "DE_ENTITY_GUTES",
+      "root": null,
+      "root_key": null,
+      "concept": "Gutes",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "103:3"
+    },
+    "DE_ENTITY_WEHE": {
+      "id": "DE_ENTITY_WEHE",
+      "root": null,
+      "root_key": null,
+      "concept": "Wehe",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "103:8"
+    },
+    "DE_ENTITY_NUN": {
+      "id": "DE_ENTITY_NUN",
+      "root": null,
+      "root_key": null,
+      "concept": "Nun",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 1,
+      "first_seen": "104:2"
+    },
+    "DE_ENTITY_LAMECH": {
+      "id": "DE_ENTITY_LAMECH",
+      "root": null,
+      "root_key": null,
+      "concept": "Lamech",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 3,
+      "first_seen": "106:1"
+    },
+    "DE_ENTITY_GENERATION": {
+      "id": "DE_ENTITY_GENERATION",
+      "root": null,
+      "root_key": null,
+      "concept": "Generation",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "106:7"
+    },
+    "DE_ENTITY_FEUERFLAMME": {
+      "id": "DE_ENTITY_FEUERFLAMME",
+      "root": null,
+      "root_key": null,
+      "concept": "Feuerflamme",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "108:4"
+    },
+    "DE_ENTITY_WAEHREND": {
+      "id": "DE_ENTITY_WAEHREND",
+      "root": null,
+      "root_key": null,
+      "concept": "Während",
+      "asset_tag": "DE_ENTITY",
+      "current_state": "ACTIVE",
+      "mentions": 2,
+      "first_seen": "108:10"
+    }
+  },
+  "aliases": {
+    "ENTITY_SUPREME_GZA": {
+      "id": "ENTITY_SUPREME_GZA",
+      "labels": [
+        "Gott",
+        "Der Herr",
+        "Herr"
+      ],
+      "patterns": [
+        [
+          "Gott"
+        ],
+        [
+          "Der",
+          "Herr"
+        ],
+        [
+          "Herr"
+        ]
+      ]
+    },
+    "ACTOR_PRIMARY_HNK": {
+      "id": "ACTOR_PRIMARY_HNK",
+      "labels": [
+        "Henoch"
+      ],
+      "patterns": [
+        [
+          "Henoch"
+        ]
+      ]
+    },
+    "CLASS_ACTOR_LAK": {
+      "id": "CLASS_ACTOR_LAK",
+      "labels": [
+        "Engel",
+        "Engeln",
+        "Engelwesen"
+      ],
+      "patterns": [
+        [
+          "Engel"
+        ],
+        [
+          "Engeln"
+        ],
+        [
+          "Engelwesen"
+        ]
+      ]
+    },
+    "CLASS_ACTOR_WATCHERS": {
+      "id": "CLASS_ACTOR_WATCHERS",
+      "labels": [
+        "Wächter",
+        "Wachtern"
+      ],
+      "patterns": [
+        [
+          "Wächter"
+        ],
+        [
+          "Waechter"
+        ],
+        [
+          "Wachtern"
+        ]
+      ]
+    },
+    "CLASS_ACTOR_GIANTS": {
+      "id": "CLASS_ACTOR_GIANTS",
+      "labels": [
+        "Riese",
+        "Riesen"
+      ],
+      "patterns": [
+        [
+          "Riese"
+        ],
+        [
+          "Riesen"
+        ]
+      ]
+    },
+    "ACTOR_GIANT_OHYA": {
+      "id": "ACTOR_GIANT_OHYA",
+      "labels": [
+        "Ohya",
+        "Ohyah"
+      ],
+      "patterns": [
+        [
+          "Ohya"
+        ],
+        [
+          "Ohyah"
+        ]
+      ]
+    },
+    "ACTOR_GIANT_HAHYA": {
+      "id": "ACTOR_GIANT_HAHYA",
+      "labels": [
+        "Hahya",
+        "Hahyah"
+      ],
+      "patterns": [
+        [
+          "Hahya"
+        ],
+        [
+          "Hahyah"
+        ]
+      ]
+    },
+    "ACTOR_GIANT_MAHWAY": {
+      "id": "ACTOR_GIANT_MAHWAY",
+      "labels": [
+        "Mahway",
+        "Mahwayi"
+      ],
+      "patterns": [
+        [
+          "Mahway"
+        ],
+        [
+          "Mahwayi"
+        ]
+      ]
+    },
+    "ACTOR_GIANT_GILGAMESCH": {
+      "id": "ACTOR_GIANT_GILGAMESCH",
+      "labels": [
+        "Gilgamesch",
+        "Gilgamesh"
+      ],
+      "patterns": [
+        [
+          "Gilgamesch"
+        ],
+        [
+          "Gilgamesh"
+        ]
+      ]
+    },
+    "ACTOR_GIANT_HOBABISH": {
+      "id": "ACTOR_GIANT_HOBABISH",
+      "labels": [
+        "Hobabisch",
+        "Hobabish"
+      ],
+      "patterns": [
+        [
+          "Hobabisch"
+        ],
+        [
+          "Hobabish"
+        ]
+      ]
+    },
+    "ACTOR_WATCHER_SEMJAZA": {
+      "id": "ACTOR_WATCHER_SEMJAZA",
+      "labels": [
+        "Semjaza",
+        "Semyaza"
+      ],
+      "patterns": [
+        [
+          "Semjaza"
+        ],
+        [
+          "Semyaza"
+        ]
+      ]
+    },
+    "ACTOR_WATCHER_AZAZEL": {
+      "id": "ACTOR_WATCHER_AZAZEL",
+      "labels": [
+        "Azazel"
+      ],
+      "patterns": [
+        [
+          "Azazel"
+        ]
+      ]
+    },
+    "ACTOR_WATCHER_BARAQEL": {
+      "id": "ACTOR_WATCHER_BARAQEL",
+      "labels": [
+        "Baraqel",
+        "Baraqiel"
+      ],
+      "patterns": [
+        [
+          "Baraqel"
+        ],
+        [
+          "Baraqiel"
+        ]
+      ]
+    }
+  }
+}

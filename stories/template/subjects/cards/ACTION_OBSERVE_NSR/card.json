@@ -1,0 +1,20 @@
+{
+  "description": "A concise asset-bible capturing critical insights across domains.",
+  "visual_anatomy": "[Descriptive text]",
+  "evolution": "[Evolutionary context]",
+  "props": "[Properties overview]",
+  "prompt_keywords": [
+    "key terms"
+  ],
+  "prompt_block": "A detailed guide...",
+  "phase_prompts": [
+    {
+      "state_id": "phase_01",
+      "label": "Initial assessment",
+      "summary": "Foundational analysis",
+      "prompt_keywords": [
+        "clarity"
+      ]
+    }
+  ]
+}

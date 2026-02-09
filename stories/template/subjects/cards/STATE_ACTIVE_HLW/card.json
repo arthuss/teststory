@@ -1,0 +1,23 @@
+{
+  "description": "Auto-generated asset card for ሀለዉ.",
+  "visual_anatomy": [
+    "TBD."
+  ],
+  "evolution": [
+    "Phase (Default)"
+  ],
+  "props": [
+    "TBD."
+  ],
+  "prompt_keywords": [],
+  "prompt_block": "ሀለዉ, ",
+  "phase_prompts": [
+    {
+      "state_id": "default",
+      "label": "Default",
+      "summary": "",
+      "prompt_keywords": [],
+      "prompt_block": "ሀለዉ, "
+    }
+  ]
+}

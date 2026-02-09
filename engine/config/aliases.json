@@ -1,0 +1,24 @@
+{
+  "aliases": [
+    {
+      "id": "ENTITY_SUPREME_GZA",
+      "labels": [
+        "God",
+        "The Lord",
+        "Lord of Spirits",
+        "Head of Days"
+      ],
+      "patterns": [
+        ["G-Z-ʾ"],
+        ["G-Z-ʾ", "M-N-F-S"],
+        ["R-'-S", "M-W-A"],
+        ["God"],
+        ["The", "Lord"],
+        ["Lord"],
+        ["Gott"],
+        ["der", "Herr"],
+        ["Herr"]
+      ]
+    }
+  ]
+}

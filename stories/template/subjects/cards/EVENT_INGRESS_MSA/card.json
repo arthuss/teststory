@@ -1,0 +1,28 @@
+{
+  "description": "A detailed asset-bible for event coordination.",
+  "visual_anatomy": [],
+  "evolution": [
+    "initial design",
+    "iterative refinement"
+  ],
+  "props": [
+    "central stage",
+    "technical specs"
+  ],
+  "prompt_keywords": [
+    "precision",
+    "clarity"
+  ],
+  "prompt_block": "Define event parameters clearly.",
+  "phase_prompts": [
+    {
+      "state_id": "phase_01",
+      "label": "Planning phase",
+      "summary": "Establish foundational requirements.",
+      "prompt_keywords": [
+        "clarity"
+      ],
+      "prompt_block": "Outline core objectives."
+    }
+  ]
+}

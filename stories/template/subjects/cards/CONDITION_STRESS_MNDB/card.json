@@ -1,0 +1,28 @@
+{
+  "description": "A concise asset-bible ensuring precision across states and sources.",
+  "visual_anatomy": [
+    "core elements"
+  ],
+  "evolution": [
+    "initial design"
+  ],
+  "props": [
+    "key parameters"
+  ],
+  "prompt_keywords": [
+    "clarity",
+    "alignment"
+  ],
+  "prompt_block": "Define clear, consistent guidelines for all states.",
+  "phase_prompts": [
+    {
+      "state_id": "phase_01",
+      "label": "Initial setup",
+      "summary": "Establish foundational standards.",
+      "prompt_keywords": [
+        "clarity"
+      ],
+      "prompt_block": "Set baseline requirements."
+    }
+  ]
+}

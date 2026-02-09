@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+engine/workers/__pycache__/
+error_log.txt
+heartbeat.lock
+backups/
+story_data.json
+story_data_de.json
+story_data*.bak
+*.bak
+dryrun_*.jsonl
+logs/
+.env

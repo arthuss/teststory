@@ -1,0 +1,30 @@
+{
+  "description": "A comprehensive asset-bible framework outlining core principles and applications.",
+  "visual_anatomy": [
+    "structure",
+    "components"
+  ],
+  "evolution": [
+    "initial",
+    "development"
+  ],
+  "props": [
+    "key",
+    "element"
+  ],
+  "prompt_keywords": [
+    "clarity"
+  ],
+  "prompt_block": "A detailed guide ensuring precision and coherence.",
+  "phase_prompts": [
+    {
+      "state_id": "phase_01",
+      "label": "Initialization",
+      "summary": "Foundation setup",
+      "prompt_keywords": [
+        "clarity"
+      ],
+      "prompt_block": "Ensure alignment with core objectives."
+    }
+  ]
+}

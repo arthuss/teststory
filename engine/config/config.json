@@ -1,0 +1,268 @@
+{
+  "api": {
+    "lm_studio_url": "http://localhost:1234/v1/chat/completions",
+    "request_timeout": 120,
+    "max_retries": 50,
+    "max_concurrent_per_model": 6,
+    "reload_cooldown": 45
+  },
+  "models": [
+    "lfm2.5-vl-1.6b",
+    "lfm2.5-vl-1.6b:2"
+  ],
+  "orchestrator": {
+    "enabled": false,
+    "model_base": "LiquidAI/LFM2.5-1.2B-Thinking-GGUF/LFM2.5-1.2B-Thinking-F16.gguf",
+    "gpu": "max",
+    "heartbeat_timeout": 120,
+    "check_interval": 5
+  },
+  "files": {
+    "data_file": "../../story_data.json",
+    "input_file": "../../input/complete_story.txt"
+  },
+  "processing": {
+    "separator": "፡",
+    "additional_separators": [
+      "\n",
+      "\t",
+      "\r",
+      " "
+    ],
+    "adaptive_token": {
+      "base": 1024,
+      "char_base": 5000,
+      "min_output": 1024,
+      "max": 8192,
+      "context_window_assumption": 16384,
+      "char_per_token": 2.5,
+      "multiplier": 2.5
+    },
+    "prompt_compact_mode": "compact",
+    "prompt_compact_threshold": 8000,
+    "stage_max_output_tokens": {
+      "morphologic": 1024,
+      "syntactic": 1024,
+      "semantic": 16384,
+      "websearch": 2048,
+      "translation": 1024,
+      "translation_draft": 2048,
+      "review": 256
+    },
+    "morphologic_mode": "text",
+    "syntactic_mode": "heuristic",
+    "graphematic_prefill": false,
+    "graphematic_mode": "local",
+    "graphematic_punctuations": [
+      "፡",
+      "።",
+      "፣",
+      "፤",
+      "፥",
+      "፦",
+      "፧",
+      "፨",
+      ".",
+      ",",
+      "!",
+      "?",
+      ";",
+      ":"
+    ],
+    "max_items": 0
+  },
+  "subjects": {
+    "story_id": "template",
+    "timeline_id": "default",
+    "dynamic_phase_max": 3,
+    "dynamic_phase_labels": []
+  },
+  "websearch": {
+    "mode": "llm",
+    "use_tools": false,
+    "tool_name": "web_url_read",
+    "max_entity_jobs": 3,
+    "max_verse_jobs": 1,
+    "max_total_jobs": 6,
+    "max_sources_per_job": 2,
+    "max_fetch_chars": 4000,
+    "summary_max_chars": 1600,
+    "summary_llm": true,
+    "seed_wikipedia": true,
+    "context_window": 1,
+    "actor_prop_templates": [
+      "{label} props {props}",
+      "\"{label}\" artifacts"
+    ],
+    "rerank": {
+      "enabled": true,
+      "max_candidates": 6
+    },
+    "entity_query_templates": [
+      "{label} Book of Enoch",
+      "\"{label}\" \"Book of Giants\"",
+      "\"{label}\" Qumran fragments"
+    ],
+    "entity_query_templates_by_type": {
+      "actor": [
+        "{label} character description",
+        "\"{label}\" Book of Enoch",
+        "\"{label}\" Book of Giants"
+      ],
+      "prop": [
+        "{label} artifact description",
+        "\"{label}\" ancient object",
+        "\"{label}\" meaning"
+      ],
+      "environment": [
+        "{label} location",
+        "\"{label}\" geography",
+        "\"{label}\" ancient place"
+      ]
+    },
+    "scene_query_templates": [
+      "\"Enoch {verse_id}\" setting",
+      "\"Enoch {chapter}:{verse}\" location"
+    ],
+    "verse_query_templates": [
+      "\"Enoch {verse_id}\" commentary"
+    ],
+    "search_tool_name": "",
+    "fetch_tool_name": "",
+    "mcp_server_id": "",
+    "context_prefix": "Schreibe pro Job einen kompakten Fließtext (kein Markdown, keine Listen). Quellen inline nennen.",
+    "use_seed_urls": false,
+    "search_url_template": "https://duckduckgo.com/html/?q={query}",
+    "seed_search_url": true,
+    "compact_context": true,
+    "context_scope": [
+      "scene"
+    ],
+    "include_registry_context": false,
+    "context_excerpt_chars": 0,
+    "cache_dir": "stories/template/subjects/web_cache",
+    "cache_dir_de": "stories/template/subjects_de/web_cache",
+    "cache_ttl_hours": 0,
+    "sources": [
+      {
+        "type": "wikipedia",
+        "lang": "en"
+      }
+    ],
+    "sources_de": [
+      {
+        "type": "wikipedia",
+        "lang": "de"
+      }
+    ]
+  },
+  "de_entities": {
+    "enable_capitalized_heuristic": true,
+    "min_length": 3,
+    "min_frequency": 2,
+    "exclude_sentence_start": true,
+    "stopwords": [
+      "Und",
+      "Der",
+      "Die",
+      "Das",
+      "Im",
+      "In",
+      "Am",
+      "An",
+      "Ein",
+      "Eine",
+      "Eines",
+      "Einer",
+      "Den",
+      "Dem",
+      "Des",
+      "Zu",
+      "Zum",
+      "Zur",
+      "Von",
+      "Vom",
+      "Mit",
+      "Auf",
+      "Aus",
+      "Bei",
+      "Nach",
+      "Vor",
+      "Fuer",
+      "Für",
+      "Auch",
+      "Aber",
+      "Als",
+      "Ist",
+      "Sind",
+      "Seid",
+      "War",
+      "Waren",
+      "Sein",
+      "Seine",
+      "Seiner",
+      "Seinem",
+      "Seinen",
+      "Ihr",
+      "Ihre",
+      "Ihren",
+      "Ihrem",
+      "Er",
+      "Sie",
+      "Es",
+      "Wir",
+      "Ihrer",
+      "Deren",
+      "Dieser",
+      "Diese",
+      "Diesem",
+      "Diesen",
+      "Desselben",
+      "Derselbe",
+      "Derselben",
+      "Jener",
+      "Jene",
+      "Jenner",
+      "Jenem",
+      "Jenen",
+      "Jeden",
+      "Jedem",
+      "Jeder",
+      "Jedes",
+      "Denn",
+      "Noch",
+      "Nicht",
+      "Kein",
+      "Keine",
+      "Keinen",
+      "Keinem",
+      "Keiner",
+      "Euch",
+      "Euer",
+      "Eure",
+      "Eurem",
+      "Euren",
+      "Einer",
+      "Eines",
+      "Einen",
+      "Einem",
+      "Dort",
+      "Dahin",
+      "Hier",
+      "Jetzt",
+      "Schon",
+      "Sehr",
+      "Mehr",
+      "Wird",
+      "Wurde",
+      "Werden",
+      "Kann",
+      "Koennen",
+      "Können",
+      "Soll",
+      "Sollen",
+      "Muss",
+      "Müssen"
+    ]
+  }
+}

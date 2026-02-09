@@ -1,0 +1,31 @@
+{
+  "description": "This asset-bible entry addresses critical event anomalies impacting global systems across ten states, rooted in verified sources.",
+  "visual_anatomy": [
+    "core concept",
+    "key elements"
+  ],
+  "evolution": [
+    "initial state",
+    "development phases"
+  ],
+  "props": [
+    "parameters",
+    "constraints"
+  ],
+  "prompt_keywords": [
+    "clarity",
+    "precision"
+  ],
+  "prompt_block": "Define with precision, aligning sources and goals.",
+  "phase_prompts": [
+    {
+      "state_id": "phase_01",
+      "label": "Initial Analysis",
+      "summary": "Assess impact scope",
+      "prompt_keywords": [
+        "clarity"
+      ],
+      "prompt_block": "Conduct thorough evaluation."
+    }
+  ]
+}

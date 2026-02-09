@@ -1,0 +1,12 @@
+{
+  "description": "The asset-bible initiation centers on ፈጠረ, pivotal for strategy alignment. 14 occurrences span states like default and 104 regions. Visual anatomy blends dynamic elements evolving through phases. Prompt keywords prioritize precision; prompt block defines execution steps. Phase_prompts detail initial actions ensuring coherence.",
+  "phase_prompts": [
+    {
+      "state_id": "default",
+      "label": "Default",
+      "summary": "",
+      "prompt_keywords": [],
+      "prompt_block": "ፈጠረ, "
+    }
+  ]
+}

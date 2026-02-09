@@ -1,0 +1,29 @@
+{
+  "description": "The asset-bible defines core framework for environment layers.",
+  "visual_anatomy": [
+    "structure",
+    "components"
+  ],
+  "evolution": [
+    "development"
+  ],
+  "props": [
+    "element",
+    "resource"
+  ],
+  "prompt_keywords": [
+    "key terms"
+  ],
+  "prompt_block": "A precise guide for implementation.",
+  "phase_prompts": [
+    {
+      "state_id": "phase_01",
+      "label": "initial",
+      "summary": "Foundation setup",
+      "prompt_block": "...",
+      "prompt_keywords": [
+        "starting point"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "description": "A structured framework guiding asset representation.",
+  "visual_anatomy": [
+    "core",
+    "components"
+  ],
+  "evolution": [
+    "initiation",
+    "development",
+    "integration"
+  ],
+  "props": [
+    "aliases",
+    "states"
+  ],
+  "prompt_keywords": [
+    "phases",
+    "details"
+  ],
+  "prompt_block": "Define roles clearly.",
+  "phase_prompts": [
+    {
+      "state_id": "phase_01",
+      "label": "Introduction",
+      "summary": "Foundation setup.",
+      "prompt_keywords": [
+        "role"
+      ],
+      "prompt_block": "Clarify purpose."
+    },
+    {
+      "state_id": "phase_02",
+      "label": "Expansion",
+      "summary": "Scaling up.",
+      "prompt_keywords": [
+        "growth"
+      ],
+      "prompt_block": "Detail requirements."
+    },
+    {
+      "state_id": "phase_03",
+      "label": "Finalization",
+      "summary": "Closure.",
+      "prompt_keywords": [
+        "completion"
+      ],
+      "prompt_block": "Confirm completion."
+    }
+  ]
+}

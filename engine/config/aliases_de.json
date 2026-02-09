@@ -1,0 +1,82 @@
+{
+  "aliases": [
+    {
+      "id": "ENTITY_SUPREME_GZA",
+      "labels": ["Gott", "Der Herr", "Herr"],
+      "mode": "surface",
+      "patterns": [["Gott"], ["Der", "Herr"], ["Herr"]]
+    },
+    {
+      "id": "ACTOR_PRIMARY_HNK",
+      "labels": ["Henoch"],
+      "mode": "surface",
+      "patterns": [["Henoch"]]
+    },
+    {
+      "id": "CLASS_ACTOR_LAK",
+      "labels": ["Engel", "Engeln", "Engelwesen"],
+      "mode": "surface",
+      "patterns": [["Engel"], ["Engeln"], ["Engelwesen"]]
+    },
+    {
+      "id": "CLASS_ACTOR_WATCHERS",
+      "labels": ["Wächter", "Wachtern"],
+      "mode": "surface",
+      "patterns": [["Wächter"], ["Waechter"], ["Wachtern"]]
+    },
+    {
+      "id": "CLASS_ACTOR_GIANTS",
+      "labels": ["Riese", "Riesen"],
+      "mode": "surface",
+      "patterns": [["Riese"], ["Riesen"]]
+    },
+    {
+      "id": "ACTOR_GIANT_OHYA",
+      "labels": ["Ohya", "Ohyah"],
+      "mode": "surface",
+      "patterns": [["Ohya"], ["Ohyah"]]
+    },
+    {
+      "id": "ACTOR_GIANT_HAHYA",
+      "labels": ["Hahya", "Hahyah"],
+      "mode": "surface",
+      "patterns": [["Hahya"], ["Hahyah"]]
+    },
+    {
+      "id": "ACTOR_GIANT_MAHWAY",
+      "labels": ["Mahway", "Mahwayi"],
+      "mode": "surface",
+      "patterns": [["Mahway"], ["Mahwayi"]]
+    },
+    {
+      "id": "ACTOR_GIANT_GILGAMESCH",
+      "labels": ["Gilgamesch", "Gilgamesh"],
+      "mode": "surface",
+      "patterns": [["Gilgamesch"], ["Gilgamesh"]]
+    },
+    {
+      "id": "ACTOR_GIANT_HOBABISH",
+      "labels": ["Hobabisch", "Hobabish"],
+      "mode": "surface",
+      "patterns": [["Hobabisch"], ["Hobabish"]]
+    },
+    {
+      "id": "ACTOR_WATCHER_SEMJAZA",
+      "labels": ["Semjaza", "Semyaza"],
+      "mode": "surface",
+      "patterns": [["Semjaza"], ["Semyaza"]]
+    },
+    {
+      "id": "ACTOR_WATCHER_AZAZEL",
+      "labels": ["Azazel"],
+      "mode": "surface",
+      "patterns": [["Azazel"]]
+    },
+    {
+      "id": "ACTOR_WATCHER_BARAQEL",
+      "labels": ["Baraqel", "Baraqiel"],
+      "mode": "surface",
+      "patterns": [["Baraqel"], ["Baraqiel"]]
+    }
+  ]
+}

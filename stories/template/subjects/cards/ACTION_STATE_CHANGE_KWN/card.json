@@ -1,0 +1,31 @@
+{
+  "description": "A concise asset-bible framework defining core components",
+  "visual_anatomy": [
+    "core elements",
+    "structure"
+  ],
+  "evolution": [
+    "initialization",
+    "adaptation"
+  ],
+  "props": [
+    "keywords",
+    "guidance"
+  ],
+  "prompt_keywords": [
+    "clarity",
+    "precision"
+  ],
+  "prompt_block": "Define the asset-bible's purpose clearly.",
+  "phase_prompts": [
+    {
+      "state_id": "phase_01",
+      "label": "Initialization",
+      "summary": "Establish foundational parameters.",
+      "prompt_keywords": [
+        "clarity"
+      ],
+      "prompt_block": "Begin with core definitions."
+    }
+  ]
+}

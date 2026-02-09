@@ -1,0 +1,22 @@
+{
+  "assets": {},
+  "aliases": {
+    "CHARACTER_GOD": {
+      "id": "CHARACTER_GOD",
+      "labels": [
+        "Lord of Spirits",
+        "Head of Days"
+      ],
+      "patterns": [
+        [
+          "G-Z-ʾ",
+          "M-N-F-S"
+        ],
+        [
+          "R-'-S",
+          "M-W-A"
+        ]
+      ]
+    }
+  }
+}

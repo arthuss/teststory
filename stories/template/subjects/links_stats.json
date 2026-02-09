@@ -1,0 +1,17 @@
+{
+  "total_links": 1055,
+  "links_with_shared": 92,
+  "percent_with_shared": 8.72,
+  "avg_shared_per_link": 0.089,
+  "max_shared_per_link": 2,
+  "top_shared_subjects": [
+    {
+      "id": "CLASS_ACTOR_LAK",
+      "count": 74
+    },
+    {
+      "id": "ACTOR_PRIMARY_HNK",
+      "count": 20
+    }
+  ]
+}
